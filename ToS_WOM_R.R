@@ -295,7 +295,20 @@ days_amount <- net_2[,c(1,2)]
 days_amount <- data.frame(table(days_amount$from))
 names(days_amount) <- c("id", "days_amount" )
 
-user <- merge(user, days_amount, all.x = TRUE)
+user_1 <- merge(user, days_amount, all.x = TRUE)
+user_1[is.na(user_1$days_amount),] <- 0 # There is a mistake here...
+
+# Amount of individual and grupal invitations
+
+net_2$ind_inv <- ifelse(net_2$freq == 1, 1, 0)
+net_2$group_inv <- ifelse(net_2$freq > 1, 1, 0)
+ind_inv <- aggregate(net_2$ind_inv, by = list(id = net_2$from), FUN=sum)
+names(ind_inv) <- c("id", "ind_inv")
+group_inv <- aggregate(net_2$group_inv, by = list(id = net_2$from), FUN=sum)
+names(group_inv) <- c("id", "group_inv")
+
+user_2 <- merge(user_1, ind_inv, all.x = TRUE)
+user_3 <- merge(user_2, group_inv, all.x = TRUE)
 
 #### Disconnect with database ####
 dbDisconnect(db)
