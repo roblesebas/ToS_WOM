@@ -282,8 +282,20 @@ plot(d[ind], dd.network_act[ind], log="xy", col="blue",
 #### WOM: Network Actors ####
 ## Identifying network actors 
 
-net_1 <- 
+## Adding new variables...
+# amount of days invitations
 
+net_1 <- as_data_frame(network_act)
+net_1 <- net_1[c(1,3)]
+net_2 <- aggregate(invitation_date~., net_1, FUN=count)
+net_2 <- data.frame(table(net_1$from ,  net_1$invitation_date))
+net_2 <- count(net_1, c("from", "invitation_date"))
+
+days_amount <- net_2[,c(1,2)]
+days_amount <- data.frame(table(days_amount$from))
+names(days_amount) <- c("id", "days_amount" )
+
+user <- merge(user, days_amount, all.x = TRUE)
 
 #### Disconnect with database ####
 dbDisconnect(db)
