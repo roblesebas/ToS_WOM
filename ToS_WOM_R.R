@@ -312,10 +312,14 @@ user_3 <- merge(user_2, group_inv, all.x = TRUE)
 
 # Adding 0 values to NA 
 
-user$
+user[is.na(user$days_amount), "days_amount" ] <- 0
+user[is.na(user$ind_inv), "ind_inv" ] <- 0
+user[is.na(user$group_inv), "group_inv" ] <- 0
+
 
 #### Disconnect with database ####
 dbDisconnect(db)
 
 
 
+user <- read.csv("user_1.csv"); user$X <- NULL
