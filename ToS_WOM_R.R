@@ -12,7 +12,7 @@ invitation <- dbReadTable(db, "invitation")
 usage <- dbReadTable(db, "usage")
 
 # Another alternative... database sometimes do not have data!
-user <- read.csv("users.csv")
+user <- read.csv("user_1.csv"); user$X <- NULL
 invitation <- read.csv("invitations.csv")
 usage <- read.csv("usage.csv")
 
@@ -309,6 +309,10 @@ names(group_inv) <- c("id", "group_inv")
 
 user_2 <- merge(user_1, ind_inv, all.x = TRUE)
 user_3 <- merge(user_2, group_inv, all.x = TRUE)
+
+# Adding 0 values to NA 
+
+user$
 
 #### Disconnect with database ####
 dbDisconnect(db)
