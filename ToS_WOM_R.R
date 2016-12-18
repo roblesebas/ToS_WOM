@@ -4,6 +4,7 @@ library(sqldf)
 library(ggplot2)
 library(reshape2)
 library("plyr", lib.loc="~/R/win-library/3.3")
+library(cluster)
 
 #### Connect to database ####
 db <- dbConnect(SQLite(), dbname="EM_NM.sqlite")
@@ -316,6 +317,28 @@ user[is.na(user$days_amount), "days_amount" ] <- 0
 user[is.na(user$ind_inv), "ind_inv" ] <- 0
 user[is.na(user$group_inv), "group_inv" ] <- 0
 
+## Segmentation data
+
+
+seg.net.act_1 <- user[!(user$sender_type == "entrepreneur" | user$sender_type == "non_promoter"),]
+seg.net.act <- seg.net.act_1[,c("usage", "Activation_delay", "inv_received", "effe_inv_send", "days_amount", 
+                       "ind_inv","group_inv")]
+
+#### Clustering 
+
+## function
+
+seg.summ <- function(data, groups) {
+  aggregate(data, list(groups), function(x) mean(as.numeric(x)))
+}
+
+# Hierarchical Clustering: hclust() 
+
+seg.dist <- daisy(seg.net.act)
+seg.hc <- hclust(seg.dist, method = "complete")
+plot(seg.hc)
+plot(cut(as.dendrogram(seg.hc), h=50)$lower[[1]])
+
 
 #### Disconnect with database ####
 dbDisconnect(db)
@@ -323,3 +346,4 @@ dbDisconnect(db)
 
 
 user <- read.csv("user_1.csv"); user$X <- NULL
+## I have a mistake in user, I do not have no adoption user...!
