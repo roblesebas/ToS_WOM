@@ -1,0 +1,3030 @@
+"","id","invitation_date","Firstname","Lastname","activation","adoption","invitations_send","sender_type","sender_type_1","usage","Activation_delay","inv_received","effe_inv_send","days_amount"
+"1",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"4",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"5",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"6",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"7",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"8",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"9","aalbertogo@gmail.com",196,"ANDRES","GOMEZ",196,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"10",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"11",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"12",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"13",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"14",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"15",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"16",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"17",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"18",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"19",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"20",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"21",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"22",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"23",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"24",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"25",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"26",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"27",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"28",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"29",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"30",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"31",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"32","acastillo.doc@gmail.com",70,"Andres","Castillo",70,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"33","acastillorua@unal.edu.co",274,"Antonio","Castillo",274,1,2,"typic_user","some_forwarding",2,0,2,2,1
+"34",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"35",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"36",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"37","acjaramillome@unal.edu.co",12,"Ana Cristina","Jaramillo Mejia",12,1,3,"typic_user","some_forwarding",1,0,3,3,3
+"38","acmaring@unal.edu.co",210,"Andres Camilo","Marin Gonzalez",210,1,2,"typic_user","some_forwarding",3,0,1,2,2
+"39","acocampow@unal.edu.co",2,"Ana Cristina <3","Ocampo",2,1,7,"typic_user","some_forwarding",22,0,3,6,5
+"40",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"41",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"42",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"43",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"44",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"45",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"46","adelgadillog@unal.edu.co",343,"Alejandro","Delgadillo Garcia",343,1,1,"typic_user","some_forwarding",5,0,1,1,1
+"47",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"48","adjaramilloc@unal.edu.co",34,"Andres","Jaramillo Correa",34,1,7,"typic_user","some_forwarding",0,0,1,2,1
+"49",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"50",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"51",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"52",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"53","adpereza@unal.edu.co",26,"Alan","Perez",26,1,6,"typic_user","some_forwarding",4,0,2,5,2
+"54",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"55","adriana.arroyo.ortega1@gmail.com",166,"Adriana","Arroyo",166,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"56","adriana.santa@utp.edu.co",9,"Adriana Maria","Santa Alvarado",9,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"57","adrianaarangol@gmail.com",43,"Adriana","Arango",55,1,1,"typic_user","some_forwarding",1,12,2,1,1
+"58","adrianablmr@gmail.com",9,"Luz Adriana","Blanco Leal",9,1,2,"typic_user","some_forwarding",1,0,1,2,2
+"59",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"60",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"61",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"62",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"63","aeduartec@unal.edu.co",166,"Alexandra","Duarte",171,1,21,"typic_user","some_forwarding",0,5,1,6,2
+"64","aemolinas@unal.edu.co",69,"Andres","Molina",69,1,3,"typic_user","some_forwarding",7,0,1,3,2
+"65",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"66",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"67",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"68",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"69",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"70",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"71",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"72",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"73",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"74",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"75",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"76",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"77",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"78",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"79",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"80","afur34@live.com",70,"Andrés","Uribe",70,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"81",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"82","agalvisv@unal.edu.co",12,"Ascencion","Galvis valencia",12,1,14,"typic_user","some_forwarding",5,0,3,12,2
+"83","agarciat@unal.edu.co",69,"Alexandra","Gracía Torres",69,1,1,"typic_user","some_forwarding",2,0,2,1,1
+"84",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"85",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"86",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"87",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"88",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"89",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"90",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"91","agordillob@unal.edu.co",164,"Alejandro","Gordillo",164,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"92",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"93",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"94","aguribem@unal.edu.co",184,"Astrid Girlesa","Uribe Martínez",223,1,9,"typic_user","some_forwarding",6,39,3,7,4
+"95",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"96",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"97","ahernandez@icesi.edu.co",70,"Andres","Hernandez",70,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"98",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"99","aicarmonam@unal.edu.co",21,"Andres Ignacio","carmona marin",72,1,2,"typic_user","some_forwarding",2,51,2,2,1
+"100",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"101",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"102",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"103",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"104",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"105",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"106",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"107","ajlizcano@uninorte.edu.co",196,"Julieth","Lizcano",196,1,9,"typic_user","some_forwarding",8,0,1,8,7
+"108",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"109","ajmoralesv@unal.edu.co",324,"Ana","Morales",324,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"110",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"111",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"112",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"113",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"114",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"115",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"116",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"117","al12020280@itsa.edu.mx",294,"Brenda María","Sánchez Manriquez",295,1,1,"typic_user","some_forwarding",2,1,1,1,1
+"118",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"119",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"120","albedoyaso@unal.edu.co",44,"alejandro","bedoya solano",44,1,4,"typic_user","some_forwarding",5,0,1,3,2
+"121","albuitragodu@unal.edu.co",34,"Alejandro","Buitrago",34,1,1,"typic_user","some_forwarding",4,0,1,1,1
+"122",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"123",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"124",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"125",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"126",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"127",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"128","alegomezgom@unal.edu.co",156,"Alejandra","Gómez",156,1,2,"typic_user","some_forwarding",3,0,1,2,1
+"129",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"130",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"131",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"132","alejandra.burbano@correounivalle.edu.co",71,"Alejandra Isabel","Burbano Holguín",72,1,11,"typic_user","some_forwarding",0,1,1,2,2
+"133","alejandrocortes90@gmail.com",64,"Alejandro","Cortés",64,1,10,"typic_user","some_forwarding",2,0,1,5,1
+"134",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"135",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"136",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"137",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"138","alejocoy@gmail.com",219,"David","Coy",219,1,3,"typic_user","some_forwarding",2,0,1,2,2
+"139",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"140",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"141","alepj96@gmail.com",197,"Alejandra","Piedrahita",197,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"142",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"143",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"144",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"145",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"146",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"147",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"148",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"149","algiraldomo@unal.edu.co",36,"Alejandra","Giraldo Morales",36,1,1,"typic_user","some_forwarding",2,0,2,1,1
+"150","algomezb@unal.edu.co",34,"Anye","Lizet Gomez",34,1,8,"typic_user","some_forwarding",4,0,1,7,1
+"151",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"152",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"153",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"154",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"155",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"156","almarinfl@unal.edu.co",2,"Alexander","Marín",2,1,51,"influencer","strong_forwarding",16,0,1,44,16
+"157",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"158",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"159",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"160",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"161",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"162","alortizga@unal.edu.co",11,"alejandro","ortiz",13,1,2,"typic_user","some_forwarding",0,2,1,1,1
+"163",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"164",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"165",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"166",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"167",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"168",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"169",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"170",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"171",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"172","amaguirre52@misena.edu.co",299,"Andrés","Aguirre",299,1,6,"typic_user","some_forwarding",0,0,1,3,1
+"173",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"174",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"175",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"176","amarulandam@unal.edu.co",9,"Andrea","Marulanda Montes",9,1,2,"typic_user","some_forwarding",6,0,1,1,1
+"177","ambenitezg@unal.edu.co",6,"Angela","Benìtez",6,1,57,"influencer","strong_forwarding",18,0,2,36,8
+"178",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"179",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"180","amcoloniao@unal.edu.co",51,"Ana María","Colonia Orozco",53,1,2,"typic_user","some_forwarding",2,2,1,2,1
+"181","amcortes25@misena.edu.co",183,"Ana Maria","Cortés",187,1,1,"typic_user","some_forwarding",0,4,1,1,1
+"182",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"183","amgonzalezq@unal.edu.co",164,"Ana Maria","Gonzalez",164,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"184",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"185","amidarragav@unal.edu.co",19,"angela","idarraga",20,1,3,"typic_user","some_forwarding",1,1,1,3,1
+"186",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"187","amlondonom@unal.edu.co",69,"Angela María","Londoño Motta",69,1,4,"typic_user","some_forwarding",1,0,1,2,1
+"188",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"189",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"190",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"191",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"192",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"193",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"194","amperezz@unal.edu.co",69,"Angela Maria","Perez Zapata",69,1,6,"typic_user","some_forwarding",21,0,1,2,1
+"195",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"196",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"197",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"198",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"199",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"200","amunozm@eafit.edu.co",64,"Melisa","Muñoz",64,1,5,"typic_user","some_forwarding",3,0,2,2,2
+"201",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"202",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"203",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"204",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"205",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"206",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"207",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"208",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"209",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"210","anamarcela.ls@gmail.com",71,"Ana Marcela","Londoño Silva",71,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"211",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"212",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"213",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"214",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"215","andbaenap@gmail.com",233,"Andrés","Baena",234,1,2,"typic_user","some_forwarding",3,1,1,2,2
+"216",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"217",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"218",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"219","andrea.porras.paez@gmail.com",259,"Andrea","Porras",260,1,1,"typic_user","some_forwarding",4,1,1,1,1
+"220","andrea.trompetero@urosario.edu.co",168,"andrea","trompetero",169,1,15,"typic_user","some_forwarding",1,1,1,6,1
+"221","andreatrasocial@gmail.com",166,"Andrea","Jimenez",166,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"222",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"223",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"224",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"225",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"226",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"227",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"228","andres.toro.serna@gmail.com",344,"Andrés Felipe","Toro Serna",344,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"229",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"230","andres.velez@uab.cat",77,"Andrés","Vélez-Pereira",77,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"231",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"232",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"233",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"234",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"235",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"236",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"237",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"238",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"239",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"240",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"241","andsanchezg@unal.edu.co",345,"andres","sanchez",345,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"242",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"243",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"244",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"245","anfduqueci@unal.edu.co",34,"andres","felipe",34,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"246",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"247",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"248","anfortizca@unal.edu.co",14,"Andrés","Felipe",14,1,3,"typic_user","some_forwarding",8,0,2,2,2
+"249",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"250",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"251",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"252",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"253",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"254",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"255",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"256",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"257","angelitas555@hotmail.com",69,"Angela Maria","Lopez",69,1,2,"typic_user","some_forwarding",6,0,1,2,2
+"258","angelitas55555@gmail.com",89,"Angela maria","lopez",89,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"259","angelkyuly@gmail.com",196,"yuly","sierra",196,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"260",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"261",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"262",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"263",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"264",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"265",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"266",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"267",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"268",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"269",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"270",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"271",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"272","ansuarez@utp.edu.co",272,"Andres","Suarez",273,1,1,"typic_user","some_forwarding",2,1,1,1,1
+"273",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"274",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"275",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"276",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"277",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"278",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"279",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"280","apatur@g.clemson.edu",79,"Anand","Patur",79,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"281","apcuestam@unal.edu.co",19,"Andrea","Cuesta",19,1,2,"typic_user","some_forwarding",3,0,1,2,2
+"282",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"283","aperez@ins.gov.co",78,"ANGELICA","PEREZ",79,1,1,"typic_user","some_forwarding",1,1,1,1,1
+"284",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"285","apgarcias@unal.edu.co",69,"Angela Patricia","García Salazar",69,1,2,"typic_user","some_forwarding",3,0,1,1,1
+"286",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"287",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"288",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"289",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"290",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"291",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"292",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"293",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"294",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"295",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"296",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"297",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"298","armicanquerc@unal.edu.co",69,"Adriana","Micanquer",69,1,1,"typic_user","some_forwarding",4,0,1,1,1
+"299",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"300","arosasl@unal.edu.co",82,"Alejandro","Rosas",86,1,3,"typic_user","some_forwarding",2,4,2,3,1
+"301","aruizd@unal.edu.co",167,"Anderson","Ruiz Delgado",169,1,2,"typic_user","some_forwarding",5,2,1,1,1
+"302",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"303",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"304","aslondono@icesi.edu.co",70,"Santiago","Londono-Restrepo",70,1,19,"typic_user","some_forwarding",1,0,1,16,1
+"305",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"306",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"307",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"308",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"309",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"310",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"311",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"312",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"313",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"314",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"315",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"316",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"317","avega12@cuc.edu.co",300,"Alexander","Vega",300,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"318",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"319",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"320",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"321","ayhidalgoma@unal.edu.co",34,"Angy","Hidalgo",90,1,6,"typic_user","some_forwarding",2,56,1,6,1
+"322",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"323",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"324",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"325","azuluagav@unal.edu.co",53,"Augusto","Zuluaga",53,1,4,"typic_user","some_forwarding",1,0,2,2,2
+"326",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"327",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"328",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"329",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"330",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"331",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"332",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"333",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"334",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"335",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"336",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"337",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"338",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"339",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"340","beatriz.herrera@ucaldas.edu.co",233,"Beatriz","Herrera",234,1,1,"typic_user","some_forwarding",8,1,1,1,1
+"341",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"342",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"343",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"344",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"345",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"346",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"347",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"348","bfcuaranc@unal.edu.co",343,"Beyler Fabio","Cuaran",343,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"349",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"350",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"351",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"352","bianca.santiz@cecar.edu.co",196,"Bianca Estela","Santiz Gamarra",215,1,1,"typic_user","some_forwarding",0,19,1,1,1
+"353",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"354","bibliobe@umanizales.edu.co",55,"Damaris","Murillo",55,1,2,"typic_user","some_forwarding",4,0,1,2,1
+"355",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"356","bjruizm@unal.edu.co",2,"Belizza","Ruiz",2,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"357",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"358",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"359","blcumbalazac@unal.edu.co",352,"Blanca","Chagueza",352,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"360","bllemusd@unal.edu.co",76,"blanca","lemus",76,1,6,"typic_user","some_forwarding",1,0,1,3,1
+"361",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"362","bmonsalv@unal.edu.co",6,"Beatriz Elena","Monsalve Campuzano",6,1,3,"typic_user","some_forwarding",0,0,1,3,3
+"363",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"364",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"365","brestr14@eafit.edu.co",64,"Bertha","Restrepo",64,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"366","brianqui05@gmail.com",196,"Brian","Quintero",196,1,3,"typic_user","some_forwarding",1,0,1,2,1
+"367",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"368",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"369","bsantiz@uninorte.edu.co",247,"Bianca","Santiz Gamarra",247,1,5,"typic_user","some_forwarding",1,0,1,2,2
+"370",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"371",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"372",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"373",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"374",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"375",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"376",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"377","c.gonzalez@ucaldas.edu.co",15,"Carlos-Augusto","Gonzalez-Correa",17,1,1,"typic_user","some_forwarding",19,2,1,1,1
+"378",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"379",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"380",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"381",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"382","caalvarezca@unal.edu.co",19,"Catalina","Alvarez",19,1,1,"typic_user","some_forwarding",4,0,1,1,1
+"383",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"384",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"385",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"386","cabarretoc@unal.edu.co",164,"Camila","Barreto",164,1,2,"typic_user","some_forwarding",6,0,1,2,1
+"387",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"388","cacarrillod@unal.edu.co",8,"Carlos","Carrillo",14,1,2,"typic_user","some_forwarding",0,6,1,2,2
+"389",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"390",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"391",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"392",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"393",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"394","cadgiraldoga@unal.edu.co",164,"david","giraldo",164,1,2,"typic_user","some_forwarding",1,0,1,2,2
+"395",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"396",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"397",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"398",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"399",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"400",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"401",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"402",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"403","camilasuarezv@gmail.com",64,"Camila","Suárez",65,1,2,"typic_user","some_forwarding",1,1,1,1,1
+"404",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"405",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"406","camilo.ernesto.gonzalez@correounivalle.edu.co",359,"CAMILO ERNESTO","GONZALEZ ZAPATA",362,1,1,"typic_user","some_forwarding",0,3,1,1,1
+"407",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"408",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"409",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"410",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"411","camolinad@unal.edu.co",9,"Carlos","Molina",9,1,20,"typic_user","some_forwarding",3,0,1,7,1
+"412",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"413",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"414","caochoad@unal.edu.co",69,"camilo","ochoa",69,1,3,"typic_user","some_forwarding",9,0,2,2,1
+"415",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"416",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"417",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"418",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"419",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"420","caporraslo@unal.edu.co",169,"Catalina","Porras Lopez",169,1,2,"typic_user","some_forwarding",1,0,1,2,2
+"421",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"422","caramirezcara@unal.edu.co",243,"Carolina","Ramírez",243,1,2,"typic_user","some_forwarding",8,0,1,1,1
+"423",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"424",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"425","cardosysoles@yahoo.es",337,"Sonia Irene","Cárdenas Solís",338,1,1,"typic_user","some_forwarding",3,1,1,1,1
+"426","carjaramillomed@unal.edu.co",164,"Carolina","Jaramillo Medina",164,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"427",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"428",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"429","carlos.1711121637@ucaldas.edu.co",230,"Carlos","Vargas-A.",230,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"430",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"431",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"432",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"433",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"434",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"435",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"436",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"437",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"438",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"439",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"440","carloshjc1@gmail.com",359,"Carlos","Jimenez",359,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"441",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"442",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"443",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"444",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"445",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"446",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"447",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"448",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"449",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"450",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"451","castajhon@gmail.com",9,"John Fredy","Castañeda",10,1,1,"typic_user","some_forwarding",0,1,2,1,1
+"452",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"453",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"454",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"455",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"456","catherinecifuentese@gmail.com",222,"CATHERINE","CIFUENTES",223,1,6,"typic_user","some_forwarding",0,1,1,2,1
+"457","catibaduizavi@unal.edu.co",22,"Carlos Alfonso","Tibaduiza Vianchá",23,1,1,"typic_user","some_forwarding",5,1,1,1,1
+"458",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"459",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"460",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"461",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"462",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"463",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"464","cbucurui@unal.edu.co",296,"Carolina","Bucuru Idarraga",296,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"465",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"466",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"467","ccarreno4@cuc.edu.co",300,"Carlos Alejandro","Carreño Colina",300,1,7,"typic_user","some_forwarding",3,0,1,1,1
+"468",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"469",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"470",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"471","ccgallegoe@unal.edu.co",7,"camilo","gallego",7,1,2,"typic_user","some_forwarding",0,0,2,2,1
+"472",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"473","ccoleccion@umanizales.edu.co",55,"Luz Adriana","Arango Restrepo",55,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"474",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"475",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"476",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"477",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"478","ccrestrepo@icesi.edu.co",70,"cecilia","restrepo",70,1,5,"typic_user","some_forwarding",6,0,1,4,3
+"479",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"480",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"481",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"482",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"483","cdfbdex@gmail.com",44,"Carlos","Ferrin",44,1,3,"typic_user","some_forwarding",3,0,1,2,2
+"484","cdgomezo@unal.edu.co",27,"Carlos David","Gómez Ortiz",27,1,2,"typic_user","some_forwarding",2,0,1,2,2
+"485",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"486",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"487",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"488",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"489","cdpuces@unal.edu.co",363,"carlos","puce",363,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"490",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"491",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"492",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"493",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"494","ceamontoyali@unal.edu.co",211,"cesar","montoya",211,1,4,"typic_user","some_forwarding",3,0,1,1,1
+"495",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"496",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"497",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"498","cedieza@unal.edu.co",229,"Carlos","Diez",229,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"499",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"500",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"501",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"502",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"503",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"504",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"505","cesar.marin@postgrado.uach.cl",56,"César","Marín",56,1,5,"typic_user","some_forwarding",0,0,1,1,1
+"506",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"507",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"508",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"509",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"510","cfhurtadog@unal.edu.co",169,"Carlos","Hurtado",169,1,3,"typic_user","some_forwarding",0,0,1,2,1
+"511","cfmillanc@unal.edu.co",163,"Claudia Fernanda","Millán Carvajal",163,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"512",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"513",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"514",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"515","cgila@libertadores.edu.co",293,"Celio","Gil",293,1,1,"typic_user","some_forwarding",0,0,2,1,1
+"516",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"517",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"518",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"519",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"520",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"521",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"522","chidalgor@unal.edu.co",19,"Carolina","Hidalgo Restrepo",19,1,1,"typic_user","some_forwarding",0,0,2,1,1
+"523",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"524",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"525",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"526",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"527",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"528",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"529",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"530",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"531",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"532",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"533",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"534",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"535","cjriosb@unal.edu.co",169,"Carlos","Rios",169,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"536",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"537",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"538",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"539","claudia.x.aguirre@correounivalle.edu.co",71,"Claudia","Aguirre",71,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"540",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"541",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"542",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"543",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"544","clcortesc@unal.edu.co",12,"Claudia Lucia","Cortes",12,1,2,"typic_user","some_forwarding",5,0,1,2,2
+"545",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"546",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"547",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"548",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"549",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"550",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"551",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"552",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"553",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"554",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"555","cmgonzalezd@unal.edu.co",19,"Carlos Mario","Gonzalez",20,1,2,"typic_user","some_forwarding",0,1,1,2,1
+"556","cmgranadam@unal.edu.co",17,"Claudia Marcela","Granada Marín",22,1,3,"typic_user","some_forwarding",0,5,1,1,1
+"557",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"558","cmlubo@icesi.edu.co",70,"Claudia Marcela","Lubo Cetina",78,1,3,"typic_user","some_forwarding",2,8,1,3,2
+"559",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"560",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"561",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"562",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"563","cnfajardor@unal.edu.co",34,"Christian","Fajardo",34,1,2,"typic_user","some_forwarding",5,0,3,2,1
+"564",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"565",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"566",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"567",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"568",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"569",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"570",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"571",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"572",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"573",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"574","coparrap@unal.edu.co",51,"Carlos","Para",51,1,39,"promoter","strong_forwarding",3,0,1,6,4
+"575","cordobaa92@gmail.com",75,"Santiago","Córdoba",75,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"576","corozcos@unal.edu.co",17,"Carolina","Orozco",21,1,13,"typic_user","some_forwarding",0,4,2,9,2
+"577",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"578",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"579",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"580","cpgarcia@unal.edu.co",5,"Claudia","Garcia",5,1,2,"typic_user","some_forwarding",8,0,1,1,1
+"581",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"582",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"583",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"584",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"585","crabenitezpi@unal.edu.co",9,"CRISTIAN","BENITEZ",9,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"586",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"587",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"588",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"589",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"590",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"591","crendonb@unal.edu.co",13,"Carolina","Rendón Barrientos",13,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"592",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"593","cridum@umanizales.edu.co",55,"Centro de Recursos Información Digital","Universidad de Manizales",55,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"594",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"595",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"596",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"597",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"598",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"599",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"600",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"601",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"602",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"603",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"604",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"605",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"606",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"607",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"608",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"609",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"610","cvillegasy@unal.edu.co",238,"Camilo","Villegas",238,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"611",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"612",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"613","czapatam@unal.edu.co",36,"Camilo","Zapata Mora",36,1,2,"typic_user","some_forwarding",2,0,1,2,1
+"614",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"615",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"616",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"617",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"618","daaposadama@unal.edu.co",164,"David Alexander","Posada Martínez",164,1,2,"typic_user","some_forwarding",2,0,1,2,2
+"619","dabarcoes@unal.edu.co",156,"Daniel","Barco Escobar",156,1,3,"typic_user","some_forwarding",5,0,1,2,1
+"620",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"621",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"622",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"623","dacastanogi@unal.edu.co",324,"Daniela","Castaño",324,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"624","dadep@unal.edu.co",164,"David Alejandro","De La Cuadra",164,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"625",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"626",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"627",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"628",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"629",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"630","dagiraldova@unal.edu.co",160,"Daniel","Giraldo",160,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"631",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"632","dagomezor@unal.edu.co",352,"daniel","gomez",352,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"633",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"634",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"635","dagranad@unal.edu.co",22,"David","Granados",22,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"636",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"637",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"638",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"639",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"640",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"641",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"642",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"643","damontoyaam@unal.edu.co",216,"Daniela","Montoya Amaya",216,1,1,"typic_user","some_forwarding",7,0,1,1,1
+"644","damrojasmu@unal.edu.co",34,"marcela","rojas",160,1,3,"typic_user","some_forwarding",6,126,2,3,2
+"645",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"646",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"647","dangarciamar@unal.edu.co",26,"Daniel","Garcia",26,1,3,"typic_user","some_forwarding",6,0,1,3,2
+"648","dangiraldomar@unal.edu.co",343,"Daniel","Giraldo Marin",343,1,2,"typic_user","some_forwarding",4,0,1,2,1
+"649",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"650",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"651",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"652",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"653","danielall.bio@gmail.com",197,"Daniela","Lopez",197,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"654","danielcdbgamba@misena.edu.co",293,"jimmy daniel","gamba casallas",293,1,2,"typic_user","some_forwarding",1,0,2,2,2
+"655",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"656",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"657",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"658",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"659",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"660",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"661","danorozcomoy@unal.edu.co",134,"Daniel","Orozco",233,1,1,"typic_user","some_forwarding",2,99,2,1,1
+"662",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"663",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"664","daosoriop@unal.edu.co",164,"Diego","Alejandro",164,1,1,"typic_user","some_forwarding",7,0,1,1,1
+"665","daospina@ucm.edu.co",22,"Didier Andrés","Ospina Osorio",22,1,3,"typic_user","some_forwarding",0,0,2,3,2
+"666",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"667","dapericoo@unal.edu.co",76,"Diana","Perico",83,1,1,"typic_user","some_forwarding",0,7,1,1,1
+"668",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"669","daquinonezv@unal.edu.co",9,"Diana Alejandra","Quiñones Villalobos",9,1,3,"typic_user","some_forwarding",0,0,1,3,2
+"670",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"671",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"672",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"673",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"674",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"675",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"676",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"677",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"678","davalencialo@unal.edu.co",188,"Daniela","Valencia",188,1,4,"typic_user","some_forwarding",3,0,1,3,1
+"679","davictoriao@unal.edu.co",9,"DARWIN ALEXIS","VICTORIA OCHOA",12,1,18,"typic_user","some_forwarding",0,3,2,4,1
+"680",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"681",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"682","david.osorio@ucaldas.edu.co",364,"David","Osorio García",364,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"683",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"684",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"685",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"686","dazea@udem.edu.co",63,"Daissy Patricia","Zea",63,1,3,"typic_user","some_forwarding",2,0,1,3,2
+"687",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"688",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"689",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"690",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"691",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"692",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"693","dcherrerah@unal.edu.co",22,"Diana","Herrera",41,1,59,"influencer","strong_forwarding",4,19,1,37,8
+"694","dcposadam@unal.edu.co",21,"Diana Carolina","Posada Montoya",21,1,14,"typic_user","some_forwarding",2,0,1,12,2
+"695","dcrojast@gmail.com",73,"Diana","Rojas",73,1,19,"typic_user","some_forwarding",8,0,1,12,7
+"696",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"697",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"698",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"699",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"700",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"701",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"702",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"703",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"704","delacuesta.juan@uces.edu.co",50,"Juan Jacobo","de la Cuesta-Zuluaga",50,1,8,"typic_user","some_forwarding",1,0,1,7,4
+"705",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"706",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"707",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"708",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"709","descobarr@unal.edu.co",160,"Daniel","Escobar",160,1,1,"typic_user","some_forwarding",8,0,1,1,1
+"710",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"711",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"712",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"713",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"714",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"715",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"716",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"717",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"718",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"719",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"720","dfmontenegrod@unal.edu.co",352,"Diego Fernando","Montenegro Diaz",352,1,2,"typic_user","some_forwarding",2,0,1,2,1
+"721","dfoliverosg@unal.edu.co",8,"Diego","Oliveros",8,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"722",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"723",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"724",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"725",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"726",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"727",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"728",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"729",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"730","dgarcesl@unal.edu.co",19,"Daniela","Garcés",55,1,3,"typic_user","some_forwarding",6,36,1,3,3
+"731",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"732",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"733",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"734",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"735",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"736",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"737","diaamayara@unal.edu.co",308,"Diego","Amaya",308,1,7,"typic_user","some_forwarding",6,0,1,1,1
+"738","diacas82@yahoo.es",15,"diana","Castillo Gomez",15,1,7,"typic_user","some_forwarding",14,0,1,5,5
+"739",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"740",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"741","diagalvisse@unal.edu.co",69,"Diego Armando","Galvis Serna",69,1,2,"typic_user","some_forwarding",5,0,1,2,1
+"742",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"743",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"744",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"745",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"746",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"747",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"748",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"749",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"750",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"751",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"752","diana.quintero29@gmail.com",21,"Diana","Quintero",25,1,1,"typic_user","some_forwarding",3,4,1,1,1
+"753",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"754","dianacarolinaarbelaezecheverri@gmail.com",9,"Diana Carolina","Arbeláez Echeverri",17,1,19,"typic_user","some_forwarding",0,8,1,10,1
+"755",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"756",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"757",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"758",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"759",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"760",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"761",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"762",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"763","dieapulidogom@unal.edu.co",364,"Diego Andrés","Pulido Gimez",364,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"764",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"765",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"766",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"767","diegogal@utp.edu.co",9,"Diego Armando","Galindres",9,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"768",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"769",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"770",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"771",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"772","diheab@hotmail.com",33,"Hernan","Aristizabal",34,1,34,"promoter","strong_forwarding",28,1,1,21,7
+"773","dilmoralescr@unal.edu.co",69,"Diana Liceth","Morales Criollo",69,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"774","dilopezca@unal.edu.co",66,"diego","lopez cardona",68,1,3,"typic_user","some_forwarding",5,2,1,2,2
+"775",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"776","dimreyva@unal.edu.co",164,"Diana Marcela","Rey Valencia",164,1,3,"typic_user","some_forwarding",5,0,1,3,2
+"777","dimunozt@unal.edu.co",21,"Dora Isabel","Muñoz Tamayo",22,1,11,"typic_user","some_forwarding",2,1,2,8,2
+"778","diony.ico@correounivalle.edu.co",72,"Diony","Ico Brath",72,1,31,"promoter","strong_forwarding",7,0,1,24,2
+"779",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"780",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"781",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"782",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"783",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"784","disanchez@icesi.edu.co",70,"Daniel","Sanchez",70,1,4,"typic_user","some_forwarding",3,0,1,4,1
+"785",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"786",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"787",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"788",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"789",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"790",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"791",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"792",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"793",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"794","dlizarraldev@unal.edu.co",244,"Daniel","Lizarralde Velasquez",244,1,3,"typic_user","some_forwarding",0,0,1,1,1
+"795","dllanob@unal.edu.co",10,"Daniel","Llano",11,1,2,"typic_user","some_forwarding",4,1,3,2,2
+"796",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"797",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"798",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"799",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"800",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"801",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"802",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"803","dmcardenasa@unal.edu.co",6,"Diana","Cárdenas-Aguirre",7,1,1,"typic_user","some_forwarding",1,1,1,1,1
+"804","dmcardonar@unal.edu.co",7,"Diana Marcela","Cardona-Román",7,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"805",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"806",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"807","dmespinalp@unal.edu.co",69,"David Mauricio","Espinal de la Pava",69,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"808","dmflorezv@unal.edu.co",9,"DIANA MARIA","FLOREZ VALENCIA",9,1,2,"typic_user","some_forwarding",3,0,3,2,2
+"809","dmgallegoh@unal.edu.co",5,"Dora","Gallego",5,1,91,"influencer","strong_forwarding",19,0,3,47,13
+"810",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"811","dmontesa@unal.edu.co",7,"daniel","montes agudelo",7,1,2,"typic_user","some_forwarding",10,0,2,2,1
+"812",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"813",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"814","dmriverat@unal.edu.co",69,"Diana Marcela","Rivera Toro",69,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"815",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"816",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"817","docampoj@unal.edu.co",363,"Daniel","Ocampo Jaramillo",363,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"818",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"819",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"820","dominguez.andres@correounivalle.edu.co",359,"Andres","Dominguez",363,1,1,"typic_user","some_forwarding",1,4,1,1,1
+"821",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"822",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"823",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"824","dpatinos@unal.edu.co",34,"daniela","patiño",34,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"825","dpatricia.rios@udea.edu.co",222,"Diana Patricia","Ríos Villada",222,1,3,"typic_user","some_forwarding",0,0,1,1,1
+"826","dpbautistas@unal.edu.co",14,"Diana","Bautista Saenz",14,1,1,"typic_user","some_forwarding",5,0,1,1,1
+"827","dperezv@unal.edu.co",184,"Danitsa","Pérez Vargas",223,1,6,"typic_user","some_forwarding",3,39,3,6,3
+"828","dpmarulandam@unal.edu.co",12,"Diana Paola","Marulanda Mosquera",12,1,6,"typic_user","some_forwarding",4,0,1,4,2
+"829","driosl@unal.edu.co",107,"David","Rios Leal",112,1,1,"typic_user","some_forwarding",6,5,1,1,1
+"830","drmorad@unal.edu.co",352,"rene","mora",352,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"831",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"832",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"833","drriosa@unal.edu.co",31,"David Ricardo","Ríos Aguirre",31,1,1,"typic_user","some_forwarding",0,0,2,1,1
+"834",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"835",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"836",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"837","dsvalenciah@unal.edu.co",2,"Daniel","Valencia",7,1,15,"typic_user","some_forwarding",1,5,2,13,4
+"838",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"839",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"840",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"841",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"842","duqueuribe@gmail.com",30,"Veronica","Duque Uribe",33,1,1,"typic_user","some_forwarding",12,3,1,1,1
+"843",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"844",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"845",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"846",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"847","dvidarte@misena.edu.co",196,"Diego","Vidarte",196,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"848",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"849",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"850",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"851","dyrodriguezm@unal.edu.co",69,"Dania","Rodriguez",69,1,2,"typic_user","some_forwarding",2,0,1,2,2
+"852",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"853",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"854",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"855",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"856",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"857","eamolinat@unal.edu.co",160,"Edwin Andres","Molina Torres",160,1,2,"typic_user","some_forwarding",0,0,1,2,1
+"858","eamorab@unal.edu.co",22,"Alejandro","Mora",22,1,105,"influencer","strong_forwarding",9,0,1,73,13
+"859",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"860",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"861",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"862",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"863","eavargase@unal.edu.co",69,"EVER ANDRES","VARGAS ESCOBAR",69,1,5,"typic_user","some_forwarding",6,0,1,4,1
+"864",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"865",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"866",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"867","ebritton@uninorte.edu.co",314,"emyle","britton",314,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"868",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"869",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"870",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"871","ecedenor@unal.edu.co",22,"Eimer","Cedeño Rodriguez",22,1,3,"typic_user","some_forwarding",5,0,1,3,2
+"872",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"873",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"874",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"875",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"876",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"877","edasanchezcr@unal.edu.co",352,"EDWIN ALEXIS","SANCHEZ CRUZ",352,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"878",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"879",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"880",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"881",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"882",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"883",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"884",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"885",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"886",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"887",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"888","efarangoc@unal.edu.co",34,"Emmanuel Fernando","Arango Cubides",34,1,1,"typic_user","some_forwarding",4,0,1,1,1
+"889","eflorezz@unal.edu.co",244,"Estefanía","Florez Zapata",245,1,5,"typic_user","some_forwarding",3,1,1,2,2
+"890",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"891",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"892",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"893",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"894",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"895","egrisalesr@unal.edu.co",310,"Efrain","Grisales Ramírez",310,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"896",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"897",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"898",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"899",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"900",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"901",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"902",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"903",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"904",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"905",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"906",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"907",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"908",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"909",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"910",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"911",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"912",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"913",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"914",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"915","elkinperez1@hotmail.com",45,"Elkin","Perez",46,1,4,"typic_user","some_forwarding",3,1,1,2,2
+"916",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"917",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"918",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"919",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"920","elvolatil77@hotmail.com",187,"angel","loaiza",189,1,2,"typic_user","some_forwarding",1,2,1,1,1
+"921","emanuelag1996@gmail.com",156,"Emanuel","Agudelo",156,1,3,"typic_user","some_forwarding",6,0,1,3,2
+"922",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"923",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"924",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"925",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"926",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"927",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"928",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"929","emorales@umanizales.edu.co",56,"Eliana","Morales Zuluaga",56,1,3,"typic_user","some_forwarding",1,0,1,1,1
+"930",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"931",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"932",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"933",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"934",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"935",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"936",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"937",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"938","erika.1711212543@ucaldas.edu.co",230,"erika","mayerly",230,1,5,"typic_user","some_forwarding",3,0,1,5,1
+"939","erika.olaya@gmail.com",300,"Erika","Olaya",300,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"940",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"941",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"942","erojasz@unal.edu.co",164,"Estefania","Rojas",164,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"943",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"944","esalazarn@unal.edu.co",20,"Edward","Salazar Naranjo",20,1,1,"typic_user","some_forwarding",2,0,2,1,1
+"945",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"946",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"947",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"948",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"949",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"950",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"951","esquelinch@hotmail.com",196,"Esquelin","Canchila",196,1,4,"typic_user","some_forwarding",3,0,2,4,2
+"952",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"953",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"954",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"955","estefania.herran@urosario.edu.co",77,"estefania","herran paez",77,1,6,"typic_user","some_forwarding",5,0,1,3,2
+"956",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"957",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"958",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"959","estibensespinal@itm.edu.co",64,"Estibens","Espinal",64,1,2,"typic_user","some_forwarding",4,0,1,2,2
+"960",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"961",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"962",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"963",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"964",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"965",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"966",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"967",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"968",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"969",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"970",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"971",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"972",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"973",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"974",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"975","fabian.eggers@menlo.edu",2,"Fabian","Eggers",200,1,1,"typic_user","some_forwarding",3,198,1,1,1
+"976",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"977",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"978",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"979",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"980",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"981",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"982",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"983",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"984",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"985",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"986",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"987",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"988",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"989",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"990",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"991",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"992",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"993",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"994",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"995","fecoloradol@unal.edu.co",17,"Ferney","Colorado",73,1,1,"typic_user","some_forwarding",0,56,2,1,1
+"996",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"997",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"998",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"999",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1000",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1001","felipetangarifeg@hotmail.com",341,"Andrés Felipe","Tangarife García",341,1,5,"typic_user","some_forwarding",1,0,1,3,1
+"1002",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1003","ferdtgal10@gmail.com",160,"Narmer Fernando","Galeano Vanegas",160,1,3,"typic_user","some_forwarding",4,0,1,1,1
+"1004",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1005",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1006",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1007",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1008",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1009",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1010","fgiones@salleurl.edu",7,"Ferran","Giones",7,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"1011","fgojedac@unal.edu.co",41,"Gerardo","Ojeda",41,1,6,"typic_user","some_forwarding",12,0,1,3,3
+"1012",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1013","fgutierrezr@unal.edu.co",17,"federico","gutierrez rios",17,1,2,"typic_user","some_forwarding",0,0,1,1,1
+"1014",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1015",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1016",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1017",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1018","fjmontoya@gmail.com",272,"Francisco","Montoya",272,1,2,"typic_user","some_forwarding",3,0,1,1,1
+"1019",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1020",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1021",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1022",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1023",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1024",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1025",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1026",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1027",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1028",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1029",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1030",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1031",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1032",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1033",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1034",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1035",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1036",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1037",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1038",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1039",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1040",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1041",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1042",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1043",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1044",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1045",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1046",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1047",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1048",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1049","gamolinao@unal.edu.co",169,"Gustavo","Molina",169,1,1,"typic_user","some_forwarding",0,0,3,1,1
+"1050","gamyk@yahoo.com",196,"Eliana Teresa","González Montes",196,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"1051","gandrades@unal.edu.co",69,"Gildardo","Andrade Suarez",69,1,2,"typic_user","some_forwarding",0,0,2,2,2
+"1052",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1053","gaosorioz@unal.edu.co",2,"Germán A.","Osorio-Zuluaga",8,1,3,"typic_user","some_forwarding",13,6,2,3,3
+"1054",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1055","garestrepoc@unal.edu.co",31,"gustavo","restrepo",31,1,3,"typic_user","some_forwarding",0,0,1,2,1
+"1056","garzongerman@gmail.com",302,"German","Garzon",302,1,1,"typic_user","some_forwarding",5,0,1,1,1
+"1057",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1058",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1059",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1060",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1061","gcvillegas@udem.edu.co",310,"Gladis","Villegas",321,1,6,"typic_user","some_forwarding",0,11,1,4,2
+"1062",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1063",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1064",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1065",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1066","gerardogamboa@hotmail.es",266,"Gerardo","Gamboa Gonzalez",267,1,3,"typic_user","some_forwarding",1,1,1,2,2
+"1067",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1068","german.baquero@correounivalle.edu.co",71,"German","Baquero",71,1,2,"typic_user","some_forwarding",7,0,1,1,1
+"1069",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1070",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1071",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1072",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1073",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1074",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1075",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1076",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1077",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1078",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1079",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1080",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1081",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1082",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1083",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1084",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1085",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1086",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1087",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1088",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1089",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1090",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1091",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1092",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1093",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1094",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1095","gmzapatao@unal.edu.co",154,"Gonzalo Mauricio","Zapata Ocampo",154,1,2,"typic_user","some_forwarding",4,0,1,1,1
+"1096","gnaranjo45@gmail.com",238,"Gloria","Naranjo",238,1,2,"typic_user","some_forwarding",12,0,1,2,2
+"1097",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1098",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1099",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1100","gonzalezvalderrama2003@gmail.com",341,"José","González",341,1,9,"typic_user","some_forwarding",1,0,1,1,1
+"1101",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1102",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1103",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1104","gospina@eafit.edu.co",62,"Patricia","Ospina",62,1,6,"typic_user","some_forwarding",2,0,1,4,1
+"1105",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1106",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1107","gperezo@unal.edu.co",17,"Giovanni","Perez",17,1,3,"typic_user","some_forwarding",3,0,1,2,2
+"1108","gplata@umanizales.edu.co",55,"Gloria Marcela","Plata Arrieta",55,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"1109",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1110",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1111",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1112",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1113",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1114","gromeroh@unal.edu.co",212,"geysson","Hernández Romero",212,1,3,"typic_user","some_forwarding",4,0,1,1,1
+"1115",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1116",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1117",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1118",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1119",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1120",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1121","guillermofuentes@utp.edu.co",275,"Guillermo","Fuentes",276,1,1,"typic_user","some_forwarding",0,1,1,1,1
+"1122",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1123","gustavoaristizabal@hotmail.com",17,"gustavo","aristizabal",17,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1124",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1125",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1126","gvascen@gmail.com",49,"Ascencion","Galvis Valencia",49,1,28,"typic_user","some_forwarding",18,0,1,24,10
+"1127",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1128",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1129",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1130",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1131",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1132",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1133",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1134",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1135",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1136","hamartinezr@unal.edu.co",35,"Harby Alexander","Martinez Rodriguez",35,1,3,"typic_user","some_forwarding",10,0,1,2,1
+"1137",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1138",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1139",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1140",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1141","hariosra@unal.edu.co",324,"Harold","Ríos Ramírez",324,1,2,"typic_user","some_forwarding",3,0,1,2,2
+"1142",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1143","haroldmauricioc@hotmail.com",324,"HAROLD MAURICIO","CASTAÑO CARDENAS",324,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1144","harrynson.r@uan.edu.co",302,"Harrynson","Ramírez",303,1,8,"typic_user","some_forwarding",14,1,1,3,3
+"1145",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1146",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1147",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1148",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1149",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1150",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1151",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1152",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1153","hemontoya2@misena.edu.co",299,"hoober","montoya",299,1,6,"typic_user","some_forwarding",0,0,2,3,2
+"1154",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1155",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1156",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1157",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1158",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1159",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1160",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1161",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1162",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1163",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1164",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1165",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1166",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1167",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1168","hmsernag@unal.edu.co",30,"HÉCTOR MAURICIO","SERNA GOMEZ",30,1,6,"typic_user","some_forwarding",17,0,1,2,2
+"1169",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1170","homantis35@yahoo.com",64,"Horacio","Manrique",64,1,2,"typic_user","some_forwarding",2,0,1,1,1
+"1171","hparrar@libertadores.edu.co",285,"Helien","Parra",285,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1172","hparrar@unal.edu.co",103,"Helien","Parra Riveros",103,1,15,"typic_user","some_forwarding",8,0,1,7,2
+"1173",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1174",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1175",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1176",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1177",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1178",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1179",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1180",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1181",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1182",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1183",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1184","iamadroneros@unal.edu.co",69,"Inés Amelia","Madroñero Solarte",69,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"1185",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1186",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1187",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1188",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1189",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1190","idgomezj@unal.edu.co",17,"IVAN","GOMEZ",19,1,2,"typic_user","some_forwarding",4,2,1,2,1
+"1191",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1192","idmoncay@unal.edu.co",23,"Ivan","Moncayo-Riascos",23,1,8,"typic_user","some_forwarding",5,0,1,4,2
+"1193",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1194",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1195",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1196",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1197","igcorrear@unal.edu.co",34,"Ingrid","correa",34,1,2,"typic_user","some_forwarding",2,0,1,2,1
+"1198",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1199",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1200",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1201",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1202",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1203",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1204","imcholoc@unal.edu.co",28,"Ingrid","cholo",28,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1205",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1206",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1207",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1208",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1209",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1210",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1211",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1212",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1213",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1214",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1215",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1216",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1217","investigacion.marketing@correounivalle.edu.co",71,"Grupo de Investigación en Marketing","Universidad del Valle",72,1,2,"typic_user","some_forwarding",0,1,1,2,1
+"1218",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1219",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1220","iospinoc@unal.edu.co",34,"irene","ospino cardona",34,1,2,"typic_user","some_forwarding",0,0,1,2,1
+"1221",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1222","isabel20279@gmail.com",71,"maria","casañas",71,1,7,"typic_user","some_forwarding",1,0,1,5,2
+"1223",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1224","isabella_ech@hotmail.com",159,"Isabella","Echeverri",160,1,1,"typic_user","some_forwarding",5,1,1,1,1
+"1225",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1226",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1227",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1228",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1229",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1230",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1231",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1232",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1233",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1234",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1235","ivtoroa@unal.edu.co",160,"Vanessa","Toro",163,1,3,"typic_user","some_forwarding",1,3,1,3,1
+"1236",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1237",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1238",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1239",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1240",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1241",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1242","jaagonzalezva@unal.edu.co",5,"Jamer","González V.",5,1,4,"typic_user","some_forwarding",5,0,1,3,2
+"1243",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1244","jaalzateo@unal.edu.co",47,"Jaime","Alzate",49,1,1,"typic_user","some_forwarding",2,2,1,1,1
+"1245","jaamadorm@unal.edu.co",7,"Jorge","Amador",104,1,1,"typic_user","some_forwarding",3,97,1,1,1
+"1246",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1247",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1248",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1249",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1250",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1251",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1252",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1253",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1254","jacastrillong@unal.edu.co",174,"Julián Andrés","Castrillón Gómez",174,1,1,"typic_user","some_forwarding",12,0,1,1,1
+"1255",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1256",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1257",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1258",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1259",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1260",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1261","jaebeltranbe@unal.edu.co",168,"Esteban","Beltrán",168,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1262",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1263",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1264",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1265",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1266",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1267",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1268",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1269",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1270",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1271",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1272",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1273","jaisaza@unal.edu.co",27,"Jesica","Isaza",27,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1274","jajaramillog@gmail.com",91,"Jorge","Jaramillo",155,1,2,"typic_user","some_forwarding",1,64,1,2,2
+"1275","jaleonma@unal.edu.co",159,"juan","leon",167,1,1,"typic_user","some_forwarding",3,8,1,1,1
+"1276","jalexander@uan.edu.co",350,"Yimy","Romero",350,1,2,"typic_user","some_forwarding",2,0,1,2,1
+"1277",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1278",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1279",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1280",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1281",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1282",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1283","jamejiar@unal.edu.co",9,"Julián","Mejía",10,1,7,"typic_user","some_forwarding",0,1,2,4,2
+"1284",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1285","janaranj@eafit.edu.co",64,"Julián","Naranjo",64,1,20,"typic_user","some_forwarding",2,0,1,16,1
+"1286",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1287",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1288","jaocampow@unal.edu.co",182,"Juan Antonio","Ocampo Wilches",182,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"1289",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1290",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1291",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1292",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1293",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1294","japaredesl@unal.edu.co",3,"Jairo Andres","Paredes López",31,1,14,"typic_user","some_forwarding",3,28,1,10,1
+"1295","japelaeza@unal.edu.co",20,"Alejandro","Peláez Arango",20,1,1,"typic_user","some_forwarding",1,0,2,1,1
+"1296",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1297",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1298",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1299",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1300",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1301",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1302",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1303","jasa@umanizales.edu.co",55,"Javier","Saldarriaga",55,1,7,"typic_user","some_forwarding",0,0,1,7,1
+"1304",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1305",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1306",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1307",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1308",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1309",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1310",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1311",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1312","javier.avila@urosario.edu.co",86,"Javier","Avila",86,1,4,"typic_user","some_forwarding",0,0,1,1,1
+"1313","javivaresv@unal.edu.co",2,"Jorge Andrés","Vivares",2,1,94,"promoter","strong_forwarding",20,0,2,57,18
+"1314",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1315",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1316","jbetancuro@unal.edu.co",34,"jhoneider","betancur",34,1,4,"typic_user","some_forwarding",2,0,1,3,1
+"1317","jbgomezm@unal.edu.co",2,"Juan Bernardo","Gómez Mendoza",5,1,4,"typic_user","some_forwarding",2,3,2,3,2
+"1318",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1319",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1320",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1321",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1322","jcardo62@eafit.edu.co",64,"Juan Carlos","Cardona",64,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1323",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1324",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1325",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1326",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1327",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1328",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1329",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1330","jccalleh@unal.edu.co",19,"Juan","Camilo",21,1,3,"typic_user","some_forwarding",3,2,2,3,1
+"1331",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1332",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1333",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1334","jcchicam@unal.edu.co",6,"Juan","Chica",28,1,4,"typic_user","some_forwarding",8,22,2,3,3
+"1335",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1336",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1337",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1338","jcgomezd@unal.edu.co",164,"juan camilo","gomez diaz",164,1,2,"typic_user","some_forwarding",6,0,1,2,2
+"1339",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1340",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1341",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1342",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1343",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1344",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1345","jclopez@icesi.edu.co",70,"Juan Carlos","Lopez",70,1,34,"typic_user","some_forwarding",9,0,1,32,4
+"1346",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1347",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1348",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1349","jcnaranjov@unal.edu.co",2,"Julia","Naranjo",22,1,8,"typic_user","some_forwarding",14,20,3,5,3
+"1350","jcocampoc@unal.edu.co",19,"Juan Camilo","Ocampo",20,1,2,"typic_user","some_forwarding",2,1,1,2,1
+"1351",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1352",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1353",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1354",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1355",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1356",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1357",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1358",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1359","jczuluagag@unal.edu.co",2,"Juan Camilo","Zuluaga Gómez",2,1,43,"promoter","strong_forwarding",6,0,2,32,16
+"1360",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1361","jdalzatec@unal.edu.co",2,"Juan David","Alzate Cardona",10,1,9,"typic_user","some_forwarding",17,8,1,9,8
+"1362",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1363",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1364","jdavilae@unal.edu.co",85,"David","Ávila",85,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"1365",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1366",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1367",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1368","jdcantilloh@unal.edu.co",14,"Juan David","Cantillo Hincapié",14,1,5,"typic_user","some_forwarding",3,0,1,5,4
+"1369","jdcocuyg@unal.edu.co",34,"Julian","David",156,1,1,"typic_user","some_forwarding",1,122,2,1,1
+"1370",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1371",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1372","jdfloreza@unal.edu.co",160,"juan diego","juan diego",160,1,5,"typic_user","some_forwarding",0,0,1,3,1
+"1373",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1374",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1375",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1376",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1377",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1378",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1379",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1380",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1381","jdiaz5@cuc.edu.co",300,"Jorge","Diaz",300,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"1382",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1383",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1384",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1385",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1386",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1387",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1388",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1389",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1390",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1391",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1392",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1393","jdsalazare@unal.edu.co",36,"Juan David","Salazar Espitia",36,1,2,"typic_user","some_forwarding",4,0,1,2,2
+"1394",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1395",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1396",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1397",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1398",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1399",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1400","jdvalenciac@unal.edu.co",188,"julian","valencia",188,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1401",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1402",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1403",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1404",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1405",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1406","jealvarezo@unal.edu.co",7,"jorge eliecer","alvarez orozco",7,1,3,"typic_user","some_forwarding",1,0,1,3,1
+"1407",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1408","jecardonaru@gmail.com",189,"Edisson","Cardona",189,1,2,"typic_user","some_forwarding",19,0,1,1,1
+"1409","jecheverryc@unal.edu.co",7,"Jimena","Echeverry Cardona",7,1,3,"typic_user","some_forwarding",3,0,1,1,1
+"1410",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1411",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1412",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1413",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1414",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1415",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1416",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1417",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1418",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1419","jeniffer.1711122607@ucaldas.edu.co",230,"Jeniffer","García",230,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1420",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1421",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1422",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1423",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1424",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1425",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1426",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1427",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1428","jepuertar@unal.edu.co",169,"Jorge Eliecer","Puerta Ramirez",190,1,7,"typic_user","some_forwarding",7,21,1,5,4
+"1429",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1430",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1431",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1432",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1433","jesanchezga@unal.edu.co",34,"jennifer","sanchez",34,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1434",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1435",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1436","jesus.suarez@urosario.edu.co",166,"Jesus","Suarez",166,1,4,"typic_user","some_forwarding",1,0,1,4,2
+"1437",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1438",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1439",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1440","jezuluagao@unal.edu.co",2,"Jorge Eduardo","Zuluaga Orozco",7,1,6,"typic_user","some_forwarding",5,5,2,5,3
+"1441",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1442",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1443","jfduartel@unal.edu.co",159,"Jose FErnando","Duarte Lozano",160,1,3,"typic_user","some_forwarding",1,1,1,1,1
+"1444","jfernando@umanizales.edu.co",50,"José Fernando","Muñoz Ospina",50,1,5,"typic_user","some_forwarding",2,0,1,4,2
+"1445",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1446",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1447",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1448","jfmarina@unal.edu.co",7,"John","Faber",7,1,1,"typic_user","some_forwarding",2,0,2,1,1
+"1449",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1450",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1451",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1452",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1453","jfrancoh@unal.edu.co",29,"josefina","franco hernandez",29,1,36,"influencer","strong_forwarding",7,0,1,24,3
+"1454",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1455",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1456",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1457",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1458",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1459","jgaviria@ucm.edu.co",89,"JENNIFER","GAVIRIA",159,1,1,"typic_user","some_forwarding",4,70,2,1,1
+"1460","jgcarvajalo@unal.edu.co",28,"José Gabriel","Carvajal Orozco",30,1,2,"typic_user","some_forwarding",5,2,1,2,2
+"1461",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1462",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1463",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1464",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1465","jgtrujillom@gmail.com",301,"juan gonzalo","trujillo morales",308,1,3,"typic_user","some_forwarding",1,7,1,1,1
+"1466",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1467","jhalishu@gmail.com",9,"Jhon","Isaza",9,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"1468",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1469",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1470","jherazo@admon.uniajc.edu.co",88,"Jorge","Erazo",89,1,10,"typic_user","some_forwarding",2,1,1,3,3
+"1471",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1472",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1473","jhjriosoc@unal.edu.co",5,"Jhon","Ríos",5,1,2,"typic_user","some_forwarding",1,0,1,2,2
+"1474",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1475",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1476",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1477",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1478",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1479","jhon.fiscal@ucaldas.edu.co",300,"jhon","ladino",300,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1480",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1481",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1482",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1483",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1484",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1485","jhruizb@unal.edu.co",76,"Jhon","Ruiz",76,1,4,"typic_user","some_forwarding",0,0,2,3,1
+"1486","jhsosoriore@unal.edu.co",160,"jhoan","sebastian",160,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"1487",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1488",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1489",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1490",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1491",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1492",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1493",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1494",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1495",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1496",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1497","jiperez@unal.edu.co",5,"Jorge Ivan","Perez Gutierrez",5,1,1,"typic_user","some_forwarding",5,0,1,1,1
+"1498",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1499",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1500",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1501",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1502",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1503",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1504",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1505",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1506",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1507",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1508","jjsepulvedal@unal.edu.co",7,"Julian","Sepulveda",7,1,51,"typic_user","some_forwarding",1,0,1,31,4
+"1509",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1510",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1511","jkfrancog@unal.edu.co",226,"Jessica","Franco",226,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"1512",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1513",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1514",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1515",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1516",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1517",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1518",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1519",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1520",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1521",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1522",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1523",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1524",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1525",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1526",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1527",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1528","jmcastellanos@unal.edu.co",31,"Julian","Castellanos",31,1,9,"typic_user","some_forwarding",1,0,1,2,1
+"1529",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1530","jmdavilal@unal.edu.co",2,"Jorge Mario","Dávila Londoño",2,1,12,"typic_user","some_forwarding",6,0,1,8,2
+"1531","jmdiazg@unal.edu.co",160,"Juan Manuel","Diaz",160,1,3,"typic_user","some_forwarding",0,0,1,3,1
+"1532",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1533",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1534",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1535",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1536",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1537",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1538",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1539","jmoralesm@unal.edu.co",216,"Juliana","Morales Marin",216,1,2,"typic_user","some_forwarding",5,0,1,1,1
+"1540",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1541",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1542",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1543",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1544",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1545",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1546",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1547",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1548",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1549",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1550",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1551",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1552",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1553",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1554",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1555",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1556",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1557",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1558",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1559",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1560","joecs1980@gmail.com",192,"Miguel0117","Miguel0117",192,1,2,"typic_user","some_forwarding",2,0,1,1,1
+"1561",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1562",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1563","jofe16@gmail.com",342,"Jhonny","García Aguirre",342,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1564",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1565",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1566",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1567",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1568",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1569",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1570",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1571","johannagp.18@gmail.com",350,"jessica","gomez",364,1,1,"typic_user","some_forwarding",2,14,2,1,1
+"1572",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1573","johmunozmor@unal.edu.co",154,"Johnnathan","Muñoz Morales",155,1,2,"typic_user","some_forwarding",4,1,1,1,1
+"1574",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1575",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1576",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1577","johnrios76@hotmail.com",299,"John","Rios",299,1,3,"typic_user","some_forwarding",0,0,1,2,1
+"1578",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1579",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1580",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1581","jonathan.romero.cuellar@gmail.com",309,"jonathan","romero cuellar",309,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"1582",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1583","jonino@uniandes.edu.co",77,"Jorge Eduardo","Niño Ramirez",77,1,3,"typic_user","some_forwarding",0,0,1,3,1
+"1584",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1585",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1586",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1587",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1588",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1589",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1590",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1591",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1592","jorojasm@unal.edu.co",163,"Johan","Rojas Muñoz",163,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1593","jorozcoe@unal.edu.co",6,"Juliana","Orozco Escalante",6,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1594",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1595",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1596",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1597",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1598",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1599",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1600",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1601","josekobo22@gmail.com",33,"José","Cobo",34,1,1,"typic_user","some_forwarding",0,1,1,1,1
+"1602",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1603",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1604",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1605",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1606",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1607",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1608",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1609","joycecarolinamoralesuribe@gmail.com",23,"JOYCE CAROLINA","MORALES URIBE",26,1,1,"typic_user","some_forwarding",1,3,1,1,1
+"1610",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1611","jpalacio@uninorte.edu.co",7,"Jorge","Palacio",7,1,15,"typic_user","some_forwarding",6,0,1,10,4
+"1612",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1613",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1614",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1615","jperezb@unal.edu.co",352,"Jefferson","Perez",352,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"1616",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1617",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1618",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1619",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1620","jpmariscalm@unal.edu.co",19,"JUAN PABLO","MARISCAL MORENO",19,1,12,"typic_user","some_forwarding",9,0,1,7,2
+"1621",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1622",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1623","jportizg@unal.edu.co",17,"Juan Pablo","Ortiz Giraldo",17,1,21,"typic_user","some_forwarding",0,0,1,14,1
+"1624",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1625",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1626",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1627",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1628",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1629",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1630",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1631",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1632",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1633",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1634",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1635",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1636",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1637",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1638","jriverosr@unal.edu.co",27,"Jonathan","Riveros Rojas",27,1,2,"typic_user","some_forwarding",6,0,1,2,2
+"1639",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1640","jrobledob@hotmail.com",48,"Jacobo","Robledo",48,1,17,"typic_user","some_forwarding",3,0,1,13,1
+"1641",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1642","jrpatinol@unal.edu.co",164,"Jeison Ricardo","Patiño López",168,1,1,"typic_user","some_forwarding",1,4,1,1,1
+"1643",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1644",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1645",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1646","jsaristizabalb@unal.edu.co",24,"Juan Sebastián","Aristizábal Bermúdez",24,1,2,"typic_user","some_forwarding",2,0,1,1,1
+"1647",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1648","jsbustosm@unal.edu.co",47,"Joan Sebastian","Bustos",47,1,4,"typic_user","some_forwarding",2,0,1,3,1
+"1649",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1650",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1651","jsescobar@serviciosnutresa.com",177,"Juan","Escobar",177,1,3,"typic_user","some_forwarding",1,0,1,1,1
+"1652","jsespinosat@unal.edu.co",43,"Juan Sebastian","Espinosa Trejos",62,1,9,"typic_user","some_forwarding",6,19,1,5,3
+"1653",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1654",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1655","jsnavarroc@unal.edu.co",8,"Johan Sebastian","Navarro Cano",8,1,3,"typic_user","some_forwarding",2,0,2,2,2
+"1656","jspelaezr@unal.edu.co",160,"Sebastián","Peláez",160,1,2,"typic_user","some_forwarding",0,0,1,2,1
+"1657",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1658","jstejadaq@unal.edu.co",189,"JUAN SEBASTIAN","TEJADA QUINTERO",189,1,7,"typic_user","some_forwarding",4,0,1,4,3
+"1659",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1660",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1661",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1662",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1663",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1664",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1665","juan.1710722153@ucaldas.edu.co",230,"juan david","Salazar Marin",230,1,4,"typic_user","some_forwarding",2,0,1,2,2
+"1666",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1667",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1668",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1669",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1670",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1671","juan.castellanos@ucaldas.edu.co",44,"Juan","Castellanos",48,1,1,"typic_user","some_forwarding",0,4,3,1,1
+"1672",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1673","juan.espinal@udea.edu.co",222,"Juan","Espinal",223,1,8,"typic_user","some_forwarding",0,1,1,1,1
+"1674",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1675",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1676","juan.orejuela@correounivalle.edu.co",106,"Juan Pablo","Orejuela Cabrera",106,1,4,"typic_user","some_forwarding",7,0,1,3,2
+"1677",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1678",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1679",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1680","juancarlosalvarez123@gmail.com",34,"Juan Carlos","Alvarez Hidalgo",34,1,27,"typic_user","some_forwarding",3,0,1,25,1
+"1681",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1682",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1683",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1684","juandavid_giraldo@yahoo.es",281,"Juan","GIRALDO",281,1,4,"typic_user","some_forwarding",7,0,1,4,4
+"1685",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1686",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1687",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1688",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1689",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1690",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1691",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1692",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1693",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1694","juarestrepogu@unal.edu.co",35,"Julián Andrés","Restrepo Guzmán",356,1,38,"promoter","strong_forwarding",0,321,1,18,2
+"1695",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1696",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1697",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1698",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1699",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1700",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1701",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1702",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1703","juctorolo@unal.edu.co",164,"Juan Camilo","Toro",164,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"1704",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1705","judariasmo@unal.edu.co",160,"Juan David","Arias Molia",160,1,1,"typic_user","some_forwarding",0,0,2,1,1
+"1706",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1707",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1708",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1709",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1710",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1711",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1712","jueortegalo@unal.edu.co",7,"JULIAN ESTEBAN","ORTEGA LOPEZ",7,1,14,"typic_user","some_forwarding",0,0,1,12,1
+"1713",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1714",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1715",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1716",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1717",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1718",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1719",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1720",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1721",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1722","julian.zuniga@correounivalle.edu.co",266,"Julián Fernanddo","Zúñiga Barragán",266,1,1,"typic_user","some_forwarding",7,0,1,1,1
+"1723",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1724",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1725",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1726","julianelpolitologo@gmail.com",307,"Julián Andrés","García Cortés",307,1,1,"typic_user","some_forwarding",3,0,2,1,1
+"1727",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1728",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1729","julieta181@hotmail.com",341,"Karlas","Díaz",341,1,3,"typic_user","some_forwarding",0,0,1,3,1
+"1730",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1731",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1732",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1733","julitoro11@gmail.com",30,"JULIANA","TORO",30,1,3,"typic_user","some_forwarding",2,0,1,3,2
+"1734",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1735",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1736",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1737",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1738",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1739",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1740",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1741","jupvalenciaca@unal.edu.co",169,"Juan Pablo","Valencia Cardona",169,1,2,"typic_user","some_forwarding",4,0,1,1,1
+"1742",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1743","juscorream@unal.edu.co",30,"Juan Sebastián","Correa Meneses",30,1,2,"typic_user","some_forwarding",13,0,1,2,2
+"1744","jusherrerapi@unal.edu.co",164,"Juan Sebastian","Herrera Pineda",164,1,2,"typic_user","some_forwarding",2,0,1,2,1
+"1745",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1746",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1747",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1748","jviedac@unal.edu.co",36,"Jefferson","Vieda Cruz",36,1,2,"typic_user","some_forwarding",4,0,1,2,1
+"1749",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1750",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1751",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1752",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1753",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1754",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1755","karen.papamija@correounivalle.edu.co",359,"Karen","Papamija Astudillo",361,1,1,"typic_user","some_forwarding",1,2,1,1,1
+"1756",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1757","karinajeracardona@hotmail.com",196,"karina","najera",196,1,6,"typic_user","some_forwarding",0,0,1,6,1
+"1758","karo_taty@hotmail.com",34,"Karol","Alzate",34,1,2,"typic_user","some_forwarding",8,0,1,2,2
+"1759",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1760",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1761",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1762",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1763",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1764",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1765",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1766",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1767",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1768",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1769",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1770",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1771","keeper_requiel.xr@outlook.es",294,"xiomara","Renteria",294,1,2,"typic_user","some_forwarding",2,0,1,1,1
+"1772",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1773",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1774",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1775",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1776",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1777",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1778",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1779",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1780",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1781",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1782",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1783",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1784",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1785",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1786",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1787","kmunozz@unal.edu.co",192,"Kimberly","Muñoz",192,1,2,"typic_user","some_forwarding",3,0,1,1,1
+"1788",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1789",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1790",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1791",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1792","krchacona@unal.edu.co",247,"KELLY","CHACON",253,1,1,"typic_user","some_forwarding",0,6,1,1,1
+"1793",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1794",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1795",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1796",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1797",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1798",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1799",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1800",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1801",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1802",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1803",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1804","laardilaf@unal.edu.co",197,"Laura Andrea","Ardila Franco",197,1,9,"typic_user","some_forwarding",5,0,1,4,4
+"1805",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1806",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1807",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1808",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1809","laecastanogo@unal.edu.co",15,"Laura","Castaño",37,1,1,"typic_user","some_forwarding",0,22,1,1,1
+"1810",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1811",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1812",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1813",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1814",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1815",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1816",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1817",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1818",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1819",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1820",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1821","laocampona@unal.edu.co",2,"Luz Adriana","Ocampo Naranjo",15,1,2,"typic_user","some_forwarding",8,13,2,1,1
+"1822",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1823",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1824",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1825",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1826",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1827",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1828",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1829","latrianac@unal.edu.co",202,"Leonardo","Triana",202,1,6,"typic_user","some_forwarding",2,0,2,3,3
+"1830",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1831",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1832",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1833",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1834",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1835",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1836",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1837",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1838",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1839",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1840",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1841","laurav.gonzalez@udea.edu.co",222,"Laura","González",222,1,11,"typic_user","some_forwarding",3,0,1,6,2
+"1842","laurayathe@outlook.com",5,"Laura","Yathe",27,1,3,"typic_user","some_forwarding",1,22,1,2,2
+"1843",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1844",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1845",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1846",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1847",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1848",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1849",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1850",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1851","lcarolina@utp.edu.co",47,"Lizeth Carolina","Rosero Zambrano",47,1,33,"promoter","strong_forwarding",4,0,1,24,3
+"1852",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1853",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1854",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1855",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1856",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1857",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1858",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1859","lcjaramilloj@unal.edu.co",345,"lizeth carolina","jaramillo",345,1,2,"typic_user","some_forwarding",2,0,1,2,2
+"1860","lcordonezl@unal.edu.co",71,"leonardo","ordoñez",71,1,17,"typic_user","some_forwarding",3,0,1,14,6
+"1861",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1862","lcraveo@unal.edu.co",217,"Laura Cristina :3","Rave Osorio",218,1,4,"typic_user","some_forwarding",6,1,1,4,2
+"1863",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1864",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1865",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1866",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1867",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1868",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1869","ldbarrerab@unal.edu.co",169,"leonary","barrera",169,1,2,"typic_user","some_forwarding",4,0,2,2,1
+"1870",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1871",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1872",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1873",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1874",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1875",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1876",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1877",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1878",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1879",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1880",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1881",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1882",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1883",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1884",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1885","leidyescorpio17@gmail.com",71,"Leidy","Botero",71,1,7,"typic_user","some_forwarding",1,0,1,7,1
+"1886",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1887","lejusaca832@gmail.com",69,"Leidy","Salamanca",69,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1888","lelopezb@unal.edu.co",34,"Luis","López",34,1,2,"typic_user","some_forwarding",5,0,2,2,1
+"1889",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1890",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1891",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1892",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1893",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1894",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1895",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1896","leosoto479@gmail.com",23,"Leonardo","Soto",23,1,2,"typic_user","some_forwarding",3,0,1,2,2
+"1897",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1898",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1899","levenegasp@unal.edu.co",6,"Laura","Venegas",6,1,12,"typic_user","some_forwarding",3,0,1,8,2
+"1900",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1901","leylajz@hotmail.com",281,"Leyla","Jaramillo",283,1,1,"typic_user","some_forwarding",0,2,1,1,1
+"1902","lfacebedor@unal.edu.co",28,"Luis Fernando","Acebedo R",307,1,1,"typic_user","some_forwarding",0,279,1,1,1
+"1903",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1904",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1905",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1906","lfcontrerasn@unal.edu.co",76,"LUISA","CONTRERAS",76,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1907",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1908",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1909","lfdelgadom@unal.edu.co",22,"Luis Fernando","Delgado",22,1,8,"typic_user","some_forwarding",2,0,1,8,1
+"1910","lfgomezz@unal.edu.co",9,"Luis Felipe","Gomez",9,1,2,"typic_user","some_forwarding",4,0,1,1,1
+"1911",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1912","lfjimeneza@unal.edu.co",177,"Luisa","Fernanda",177,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1913",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1914","lforregoa@unal.edu.co",169,"Felipe","Orrego",169,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1915",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1916",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1917",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1918",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1919",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1920",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1921",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1922",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1923",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1924","lgiraldob@unal.edu.co",49,"Leonardo","Giraldo Bermudez",55,1,1,"typic_user","some_forwarding",2,6,1,1,1
+"1925",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1926",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1927","lgomez@umanizales.edu.co",55,"Lina Constanza","Gómez Suaza",55,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"1928",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1929",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1930",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1931",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1932","lhnasmutar@unal.edu.co",352,"Luis","Nasmuta",352,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1933",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1934",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1935",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1936","liliana.andrea.santacruz@gmail.com",91,"liliana","santacruz",91,1,2,"typic_user","some_forwarding",1,0,2,2,2
+"1937",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1938",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1939",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1940",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1941",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1942",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1943",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1944",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1945",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1946",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1947",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1948",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1949","lineainnovacion@libertadores.edu.co",293,"Erika","Olaya",293,1,4,"typic_user","some_forwarding",1,0,1,4,3
+"1950",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1951",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1952",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1953","lizfovi@gmail.com",30,"Elizabeth","Folleco",243,1,1,"typic_user","some_forwarding",1,213,1,1,1
+"1954",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1955","ljlondonoc@unal.edu.co",19,"Luis Javier","Londoño Cardona",19,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1956","ljlopez@uis.edu.co",170,"Luis Javier","Lopez-Giraldo",242,1,5,"typic_user","some_forwarding",1,72,1,3,3
+"1957",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1958","ljrodriguezs@unal.edu.co",65,"L. Joana","Rodriguez",65,1,14,"typic_user","some_forwarding",34,0,1,5,2
+"1959",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1960",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1961",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1962",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1963",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1964",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1965",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1966","lmarcela.rodriguez1190@gmail.com",70,"Lina Marcela","Rodriguez Perez",70,1,12,"typic_user","some_forwarding",2,0,1,4,2
+"1967","lmariasv@unal.edu.co",14,"Manuela","Arias Valencia",14,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1968",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1969",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1970",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1971","lmcasallast@unal.edu.co",19,"Luis","Casallas",19,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"1972",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1973","lmgiraldoa@unal.edu.co",230,"Luz","Giraldo Arellano",232,1,1,"typic_user","some_forwarding",1,2,2,1,1
+"1974",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1975",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1976",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1977",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1978",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1979",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1980",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1981","lmramirezn@unal.edu.co",69,"Luis Miguel","Ramirez Náder",69,1,5,"typic_user","some_forwarding",4,0,3,4,2
+"1982",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1983",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1984",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1985",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1986",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1987","lnnarvaezt@unal.edu.co",352,"Leydi","Natali",352,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"1988","loaizamunoz01@gmail.com",70,"Mario Agustin","Loaiza Munoz",70,1,4,"typic_user","some_forwarding",2,0,1,4,1
+"1989",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1990","lolitagonzalezh@gmail.com",210,"Lolita","González Hernández",210,1,3,"typic_user","some_forwarding",0,0,1,1,1
+"1991","lombanaj@uninorte.edu.co",266,"Jahir","Lombana",296,1,10,"typic_user","some_forwarding",3,30,1,7,1
+"1992",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1993",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1994",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1995",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1996",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1997","lorenacr.86@gmail.com",308,"Lorena","Calvo",314,1,2,"typic_user","some_forwarding",2,6,1,1,1
+"1998",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"1999",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2000",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2001",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2002","lpachon@ins.gov.co",78,"Laura Cristina","Pachón Meza",78,1,2,"typic_user","some_forwarding",0,0,1,1,1
+"2003",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2004","lpcuaranc@unal.edu.co",352,"Patricia","Cuaran",352,1,3,"typic_user","some_forwarding",4,0,1,3,1
+"2005",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2006",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2007",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2008",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2009","lpmontanob@unal.edu.co",160,"Leidy","lpmontanob",160,1,2,"typic_user","some_forwarding",3,0,1,1,1
+"2010",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2011",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2012",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2013",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2014",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2015","lsepulveda@umanizales.edu.co",56,"Luz Andrea","Sepulveda E.",56,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2016",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2017","lshoyosg@unal.edu.co",2,"Laura","Hoyos",2,1,4,"typic_user","some_forwarding",1,0,1,4,2
+"2018",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2019",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2020",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2021",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2022",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2023",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2024",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2025",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2026",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2027",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2028",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2029",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2030",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2031","lufgomezco@unal.edu.co",330,"Luis Felipe","Gómez Colonia",330,1,2,"typic_user","some_forwarding",3,0,1,1,1
+"2032","lufhernandezca@unal.edu.co",168,"Luisa","Hernández",169,1,1,"typic_user","some_forwarding",1,1,1,1,1
+"2033",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2034",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2035",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2036",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2037",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2038",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2039",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2040",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2041",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2042",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2043","luis.soto@ceipa.edu.co",285,"Luis Cristian","Soto Jauregui",285,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2044",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2045",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2046",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2047",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2048",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2049",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2050",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2051",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2052",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2053",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2054",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2055",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2056",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2057",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2058",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2059",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2060",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2061",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2062",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2063",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2064",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2065",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2066",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2067",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2068",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2069","lvalen19@eafit.edu.co",64,"Leo","Valencia",64,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2070",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2071","lvdazas@unal.edu.co",20,"Laura","Daza Serna",20,1,7,"typic_user","some_forwarding",4,0,1,5,4
+"2072","lvgonzalezg@unal.edu.co",71,"Viviana","González",72,1,11,"typic_user","some_forwarding",7,1,2,6,5
+"2073","lvillac@unal.edu.co",34,"Laura","Villa Catamuscay",34,1,8,"typic_user","some_forwarding",2,0,1,6,1
+"2074",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2075",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2076","lvramirezp@gmail.com",321,"Vilma","Ramirez",356,1,2,"typic_user","some_forwarding",1,35,1,1,1
+"2077","lvrioso@unal.edu.co",160,"Laura Viviana","Rios Obando",160,1,6,"typic_user","some_forwarding",5,0,1,5,2
+"2078",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2079",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2080",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2081",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2082",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2083",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2084",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2085","maacelispe@unal.edu.co",19,"Mauricio Alejandro","Celis Peláez",19,1,6,"typic_user","some_forwarding",0,0,1,3,1
+"2086",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2087",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2088",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2089","maaperezvi@unal.edu.co",5,"Mayra","Perez",5,1,31,"promoter","strong_forwarding",3,0,1,29,4
+"2090",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2091","maariosco@unal.edu.co",47,"Margareth","Rios",47,1,1,"typic_user","some_forwarding",9,0,1,1,1
+"2092",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2093",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2094","mabarrerabe@unal.edu.co",239,"Mateo","Barrera",252,1,1,"typic_user","some_forwarding",0,13,1,1,1
+"2095",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2096",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2097",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2098","macaicedog@unal.edu.co",36,"maria alejandra","caicedo garcia",36,1,4,"typic_user","some_forwarding",1,0,1,3,2
+"2099",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2100","macarvajallo@unal.edu.co",164,"Mateo","Carvajal",164,1,2,"typic_user","some_forwarding",2,0,1,1,1
+"2101",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2102","macgarciamu@unal.edu.co",30,"María Camila","García Murillo",30,1,3,"typic_user","some_forwarding",3,0,1,1,1
+"2103",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2104","maclasalo@gmail.com",232,"Maria","Salazar",335,1,1,"typic_user","some_forwarding",1,103,1,1,1
+"2105",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2106","macruza@unal.edu.co",169,"Maria","Alejandra",169,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2107","macsotova@unal.edu.co",19,"Maria Camila","Soto Valencia",20,1,1,"typic_user","some_forwarding",1,1,1,1,1
+"2108",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2109",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2110",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2111",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2112",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2113",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2114",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2115",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2116",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2117",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2118",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2119",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2120","maiduque01@gmail.com",341,"maria isabel","duque",341,1,3,"typic_user","some_forwarding",1,0,1,3,1
+"2121",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2122",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2123",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2124","majriverach@unal.edu.co",19,"María José","Rivera Chaverra",139,1,1,"typic_user","some_forwarding",9,120,2,1,1
+"2125","malejescof@hotmail.com",196,"Alejandra","Escobar Florez",196,1,2,"typic_user","some_forwarding",1,0,2,1,1
+"2126",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2127",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2128",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2129",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2130","mamejiaco@unal.edu.co",177,"Maria Antonia","Mejia Cortes",177,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2131",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2132",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2133",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2134",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2135",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2136",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2137",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2138","maosoriova@unal.edu.co",364,"Mateo","Osorio",364,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"2139",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2140","maparra@icesi.edu.co",70,"Maria Alejandra","Parra Hurtado",70,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2141",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2142",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2143",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2144",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2145",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2146",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2147","maravargasrom@unal.edu.co",7,"Marcela Andrea","Vargas Romero",13,1,2,"typic_user","some_forwarding",7,6,1,2,1
+"2148",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2149",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2150",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2151",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2152",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2153","marcrismig@gmail.com",230,"Marisol","Viracachá",230,1,26,"typic_user","some_forwarding",2,0,1,17,2
+"2154",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2155",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2156",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2157",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2158",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2159",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2160","mariaang77@hotmail.com",67,"Maria A.","Cardoza S.",67,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"2161","mariabayonav@gmail.com",196,"Maria Del Carmen","Bayona Velasquez",196,1,8,"typic_user","some_forwarding",0,0,1,2,1
+"2162",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2163",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2164",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2165",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2166",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2167",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2168",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2169",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2170",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2171","mario.1711211580@ucaldas.edu.co",230,"Mario","Duque",230,1,1,"typic_user","some_forwarding",5,0,1,1,1
+"2172",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2173",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2174",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2175",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2176",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2177","marirodriguezp@unal.edu.co",8,"MARTHA INES","RODRIGUEZ PEREZ",8,1,4,"typic_user","some_forwarding",5,0,1,4,3
+"2178",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2179",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2180",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2181",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2182",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2183",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2184",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2185","martha.zuluaga@ucaldas.edu.co",2,"Martha","Zuluaga",2,1,257,"entrepreneur","initiator",50,0,1,172,36
+"2186",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2187",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2188",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2189","marthikalucia30@hotmail.com",341,"martha lucia","arroyave martinez",341,1,2,"typic_user","some_forwarding",0,0,1,1,1
+"2190",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2191",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2192","masalazarma@unal.edu.co",2,"Mateo","Salazar",2,1,2,"typic_user","some_forwarding",0,0,1,2,1
+"2193",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2194","masanchezgu@unal.edu.co",34,"mateo","sanchez",34,1,3,"typic_user","some_forwarding",0,0,1,3,1
+"2195",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2196",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2197",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2198",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2199","matosl@uninorte.edu.co",236,"Leydis Marcela","Maestre Matos",236,1,3,"typic_user","some_forwarding",8,0,1,1,1
+"2200",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2201","matzarmar@gmail.com",7,"Mateo (matzarmar)","Salazar",7,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"2202",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2203","maugiraldooca@unal.edu.co",69,"Mauricio","Giraldo Ocampo",121,1,1,"typic_user","some_forwarding",0,52,1,1,1
+"2204",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2205","mauriciobecerrafernandez@gmail.com",91,"Mauricio","Becerra Fernández",168,1,3,"typic_user","some_forwarding",2,77,1,3,2
+"2206",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2207",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2208",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2209",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2210",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2211",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2212",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2213",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2214","mbarcala@uniovi.es",132,"Marta","Fernández Barcala",133,1,2,"typic_user","some_forwarding",4,1,1,1,1
+"2215",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2216",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2217",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2218",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2219",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2220",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2221",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2222",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2223",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2224",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2225","mcastrillons@unal.edu.co",35,"Mateo","Castrillón",160,1,1,"typic_user","some_forwarding",0,125,1,1,1
+"2226",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2227","mcatayapar@unal.edu.co",34,"Camila","Ataya",34,1,2,"typic_user","some_forwarding",0,0,1,2,1
+"2228",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2229",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2230",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2231",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2232",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2233",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2234","mcmoncayor@unal.edu.co",29,"María Cristina","Moncayo Riascos",29,1,28,"typic_user","some_forwarding",14,0,1,8,4
+"2235",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2236",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2237",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2238",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2239",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2240",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2241",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2242","mdcorream@unal.edu.co",9,"Marlen Damary","Correa Mena",9,1,8,"typic_user","some_forwarding",1,0,1,7,1
+"2243","mder@unal.edu.co",289,"melissa","de la Pava",289,1,2,"typic_user","some_forwarding",2,0,1,2,2
+"2244",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2245",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2246",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2247",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2248",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2249",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2250",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2251",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2252",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2253",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2254","memogn87@gmail.com",352,"Juan Guillermo","García Navarro",353,1,2,"typic_user","some_forwarding",3,1,1,1,1
+"2255",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2256","mepinedab@unal.edu.co",169,"Michael","Esteban",177,1,1,"typic_user","some_forwarding",1,8,1,1,1
+"2257",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2258",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2259","mercedessuarez17@gmail.com",162,"Mercedes","Suarez de la Torre",162,1,33,"promoter","strong_forwarding",11,0,1,14,5
+"2260",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2261",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2262",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2263",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2264","mfcuatini@unal.edu.co",190,"Milton Fernando","Cuatin Inguilan",195,1,1,"typic_user","some_forwarding",2,5,1,1,1
+"2265",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2266",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2267",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2268",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2269","mfmarin@icesi.edu.co",70,"Maria <3","Marin",70,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2270",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2271",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2272",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2273","mfreyeso@unal.edu.co",2,"Mario","Reyes",2,1,6,"typic_user","some_forwarding",5,0,1,5,5
+"2274",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2275",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2276",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2277",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2278",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2279",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2280",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2281",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2282",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2283",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2284","mhpinedau@unal.edu.co",2,"martha","pineda",6,1,30,"typic_user","some_forwarding",18,4,1,17,13
+"2285","mhsarmientom@unal.edu.co",199,"Michael Hernando","Sarmiento Muñoz",202,1,4,"typic_user","some_forwarding",0,3,1,3,1
+"2286",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2287",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2288","miangulov@unal.edu.co",57,"maria","isabel",57,1,4,"typic_user","some_forwarding",2,0,1,2,1
+"2289",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2290",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2291",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2292",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2293",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2294",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2295",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2296",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2297",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2298",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2299",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2300","miguel.solis@correounivalle.edu.co",71,"Miguel Angel","Solis Molina",71,1,34,"promoter","strong_forwarding",10,0,1,22,10
+"2301",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2302",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2303",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2304","miller.gonzalez@correounivalle.edu.co",359,"Miller","Gonzalez Sterling",363,1,1,"typic_user","some_forwarding",1,4,1,1,1
+"2305",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2306",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2307","mipinillam@unal.edu.co",34,"Maria","Pinilla",34,1,2,"typic_user","some_forwarding",1,0,3,2,1
+"2308",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2309",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2310","misteryulians@gmail.com",9,"julian","muñoz",9,1,2,"typic_user","some_forwarding",0,0,1,1,1
+"2311",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2312",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2313",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2314",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2315",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2316",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2317",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2318",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2319",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2320",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2321",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2322",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2323",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2324","mlzuluagama@unal.edu.co",230,"Margaret Lucia","Zuluaga Manrique",230,1,1,"typic_user","some_forwarding",2,0,2,1,1
+"2325","mmaussag@unal.edu.co",28,"Melissa","Maussa García",29,1,1,"typic_user","some_forwarding",0,1,2,1,1
+"2326",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2327",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2328",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2329",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2330","mmpapamijaa@unal.edu.co",352,"Mónica","Milena",352,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2331","mmsierram@unal.edu.co",9,"MARGARITA MARIA","SIERRA",9,1,7,"typic_user","some_forwarding",3,0,1,5,1
+"2332",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2333",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2334",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2335",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2336","molinares.carmen@gmail.com",196,"Carmen Margarita","Molinares Brito",215,1,3,"typic_user","some_forwarding",0,19,1,2,1
+"2337",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2338",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2339",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2340",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2341",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2342","monicacastropena@gmail.com",9,"Mónica","Castro Peña",10,1,2,"typic_user","some_forwarding",0,1,2,1,1
+"2343","monicarlg@gmail.com",13,"monica rosa","lopez guayasamin",13,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"2344","monipeb@hotmail.es",162,"Monica","Perea",162,1,3,"typic_user","some_forwarding",1,0,1,2,1
+"2345",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2346",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2347",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2348",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2349",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2350",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2351",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2352",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2353",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2354",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2355",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2356",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2357",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2358",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2359","mreinau@gmail.com",293,"Liliana","Reina",294,1,2,"typic_user","some_forwarding",3,1,1,1,1
+"2360",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2361",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2362",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2363","mroldanc@unal.edu.co",203,"Mateo","Roldan Carvajal",203,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2364",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2365",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2366",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2367",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2368",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2369","msochel@unal.edu.co",23,"Mauricio","Soche López",29,1,1,"typic_user","some_forwarding",11,6,1,1,1
+"2370",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2371",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2372",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2373",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2374","mv.castro226@uniandes.edu.co",7,"Maria Victoria","Castro",7,1,12,"typic_user","some_forwarding",12,0,1,5,3
+"2375",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2376",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2377",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2378",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2379",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2380","mviracac@uniandes.edu.co",77,"Marisol","Viracachá",77,1,4,"typic_user","some_forwarding",4,0,1,2,2
+"2381",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2382",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2383",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2384",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2385","mzuluagaa@unal.edu.co",17,"Melissa","Zuluaga Arroyave",17,1,12,"typic_user","some_forwarding",0,0,1,5,2
+"2386",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2387",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2388",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2389",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2390",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2391",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2392","nasalazarc@unal.edu.co",19,"Natalia","Salazar",19,1,14,"typic_user","some_forwarding",17,0,1,8,4
+"2393",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2394",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2395",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2396","natalia.lpez@gmail.com",159,"Natalia","López Carmona",159,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2397",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2398","nataliabohorquezb@gmail.com",5,"Natalia","Bohorquez",5,1,2,"typic_user","some_forwarding",4,0,2,2,1
+"2399","nathapg@hotmail.com",156,"Nathalie","Peña García",156,1,19,"typic_user","some_forwarding",1,0,1,14,1
+"2400",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2401",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2402",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2403",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2404",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2405","ndduqueme@unal.edu.co",2,"Néstor Darío","Duque Méndez",57,1,25,"typic_user","some_forwarding",6,55,1,20,5
+"2406",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2407",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2408",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2409",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2410","neuropsicologia.colombia@gmail.com",162,"Luisa Fernanda","Méndez Ramírez",162,1,2,"typic_user","some_forwarding",4,0,1,2,1
+"2411",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2412","nflorezr@unal.edu.co",34,"Natalia","Flórez Ramírez",34,1,3,"typic_user","some_forwarding",6,0,1,3,2
+"2413",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2414",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2415",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2416","ngsarmientoh@unal.edu.co",329,"Ninibeth","Sarmiento",329,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"2417",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2418","nhcaicedo@icesi.edu.co",70,"Nelson Hernando","Caicedo Ortega",70,1,3,"typic_user","some_forwarding",8,0,1,2,2
+"2419","niarangoch@unal.edu.co",163,"nicolás","arango chica",163,1,1,"typic_user","some_forwarding",4,0,1,1,1
+"2420",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2421",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2422",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2423",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2424",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2425",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2426","nijarami@gmail.com",34,"natalia","jaramillo",34,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2427",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2428",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2429",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2430",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2431","nmarin@uniandes.edu.co",7,"NATHALY","MARIN-MEDINA",8,1,2,"typic_user","some_forwarding",3,1,1,2,1
+"2432",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2433",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2434",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2435","nmutisg@unal.edu.co",340,"NATHALIA","MUTIS",364,1,1,"typic_user","some_forwarding",1,24,1,1,1
+"2436",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2437",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2438",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2439",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2440",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2441","nrestree@unal.edu.co",230,"Natalia","Restrepo-Escobar",230,1,1,"typic_user","some_forwarding",8,0,2,1,1
+"2442",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2443",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2444",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2445","nsernah@unal.edu.co",169,"Nathalia","Serna Hernandez",169,1,1,"typic_user","some_forwarding",4,0,1,1,1
+"2446",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2447",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2448",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2449","numateus@uniandes.edu.co",77,"Nubia","Mateus",77,1,4,"typic_user","some_forwarding",6,0,1,2,1
+"2450","nvargas@umanizales.edu.co",55,"Natalia","Vargas",55,1,2,"typic_user","some_forwarding",0,0,1,2,1
+"2451","nvnaranjoca@unal.edu.co",19,"nini valentina","naranjo castaño",19,1,1,"typic_user","some_forwarding",3,0,1,1,1
+"2452",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2453",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2454",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2455",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2456",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2457",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2458",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2459",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2460",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2461",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2462","odarbelaeze@gmail.com",1,"Oscar","Arbeláez",1,1,21,"typic_user","some_forwarding",8,0,1,16,15
+"2463",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2464",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2465","odmartinezc@unal.edu.co",69,"Óscar","Martínez",69,1,3,"typic_user","some_forwarding",2,0,1,2,2
+"2466",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2467",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2468",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2469",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2470",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2471",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2472",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2473",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2474",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2475",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2476",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2477",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2478","ojcepeda@utp.edu.co",261,"oscar javier","cepeda giraldo",261,1,5,"typic_user","some_forwarding",0,0,1,4,2
+"2479",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2480",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2481",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2482",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2483",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2484",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2485",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2486",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2487","olgaluciacorreah@gmail.com",345,"Olga Lucía","Correa",356,1,13,"typic_user","some_forwarding",0,11,2,6,1
+"2488","olgamurill@hotmail.com",79,"olga","murillo",82,1,1,"typic_user","some_forwarding",0,3,1,1,1
+"2489",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2490",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2491",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2492",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2493",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2494",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2495",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2496",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2497",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2498",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2499",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2500",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2501",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2502",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2503",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2504","osccorreac@unal.edu.co",292,"Oscar","Correa",292,1,1,"typic_user","some_forwarding",4,0,1,1,1
+"2505",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2506",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2507",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2508",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2509",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2510",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2511",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2512",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2513",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2514",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2515",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2516",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2517",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2518",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2519",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2520",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2521",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2522",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2523",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2524",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2525","pandrearoma@gmail.com",13,"Paula Andrea","Rodriguez",19,1,30,"typic_user","some_forwarding",8,6,1,29,6
+"2526",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2527","paola.martinez@urosario.edu.co",78,"Paola","Martinez",82,1,9,"typic_user","some_forwarding",6,4,1,6,2
+"2528",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2529",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2530","paomaral@gmail.com",9,"Paola","Alzate",10,1,2,"typic_user","some_forwarding",1,1,2,2,1
+"2531",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2532","parestrepom@unal.edu.co",23,"Paola","Restrepo",23,1,2,"typic_user","some_forwarding",3,0,1,2,2
+"2533",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2534",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2535","patamargo@gmail.com",200,"patricia","Acebes Tamargo",201,1,5,"typic_user","some_forwarding",0,1,1,3,2
+"2536",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2537",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2538","pattybricenoa@gmail.com",166,"Patricia","Briceno",166,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"2539",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2540","paulacardonag@gmail.com",189,"Paula","Cardona",191,1,1,"typic_user","some_forwarding",0,2,1,1,1
+"2541",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2542",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2543","paulina.toro@udea.edu.co",222,"Paulina","Toro",222,1,30,"promoter","strong_forwarding",0,0,1,2,1
+"2544",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2545",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2546",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2547",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2548","pdiaz@ins.gov.co",78,"Paula","Diaz",78,1,9,"typic_user","some_forwarding",0,0,1,1,1
+"2549",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2550",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2551",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2552",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2553",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2554",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2555",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2556",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2557",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2558",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2559",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2560",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2561","playascol@gmail.com",285,"CAMILO M.","BOTERO",338,1,3,"typic_user","some_forwarding",1,53,1,1,1
+"2562","plduqueh@unal.edu.co",13,"Pedro Luis","Duque Hurtado",13,1,3,"typic_user","some_forwarding",8,0,1,3,2
+"2563",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2564","posingind_man@unal.edu.co",7,"WILSON ANDRES","GARCIA LOPEZ",184,1,1,"typic_user","some_forwarding",0,177,1,1,1
+"2565",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2566",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2567",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2568",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2569",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2570","prestrepo@umanizales.edu.co",55,"PAULA ANDREA","RESTREPO GARCIA",55,1,2,"typic_user","some_forwarding",2,0,2,2,1
+"2571",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2572",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2573",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2574",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2575",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2576",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2577",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2578",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2579","pupeevelin20@hotmail.com",351,"evelin","evelin",351,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"2580",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2581",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2582","pvelezangel@gmail.com",44,"Paulo Andrés","Vélez Ángel",44,1,1,"typic_user","some_forwarding",4,0,1,1,1
+"2583",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2584",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2585",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2586",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2587",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2588",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2589",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2590",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2591","rafaricard@gmail.com",2,"Rafael","Rentería",3,1,2,"typic_user","some_forwarding",6,1,1,2,2
+"2592",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2593",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2594",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2595","rahenaoz@unal.edu.co",156,"Ricardo Andres","Henao Zuluaga",156,1,2,"typic_user","some_forwarding",4,0,1,2,2
+"2596","ramaya@uniandes.edu.co",79,"RENATA","AMAYA",79,1,2,"typic_user","some_forwarding",0,0,1,2,2
+"2597","ramiropalmera@gmail.com",208,"Ramiro David","Palmera De la rosa",242,1,1,"typic_user","some_forwarding",0,34,2,1,1
+"2598",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2599",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2600",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2601",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2602",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2603",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2604",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2605",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2606","ravidalp@unal.edu.co",2,"Ricardo","Vidal",2,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"2607",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2608",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2609",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2610",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2611",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2612","reagudele@unal.edu.co",257,"Edgar","Agudelo",257,1,2,"typic_user","some_forwarding",2,0,1,2,1
+"2613",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2614",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2615","renatozambrano@gmail.com",162,"Renato","Zambrano",162,1,6,"typic_user","some_forwarding",7,0,1,3,3
+"2616",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2617",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2618","reribade@unal.edu.co",225,"Rafael","Ribadeneira",225,1,15,"typic_user","some_forwarding",5,0,1,6,2
+"2619",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2620",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2621",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2622",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2623",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2624",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2625",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2626",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2627",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2628",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2629",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2630","rjbenavidesu@unal.edu.co",6,"Ricardo","Benavides",6,1,12,"typic_user","some_forwarding",2,0,1,5,1
+"2631",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2632",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2633","rlealr@unal.edu.co",9,"ROCIO","LEAL RIVERA",10,1,12,"typic_user","some_forwarding",2,1,2,3,3
+"2634",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2635",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2636",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2637",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2638",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2639",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2640",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2641",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2642",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2643",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2644",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2645",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2646",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2647",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2648","rpelaez@ucm.edu.co",9,"rodrigo","pelaez",13,1,2,"typic_user","some_forwarding",3,4,2,2,1
+"2649",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2650","rppinedasa@unal.edu.co",69,"rocio","pineda",69,1,2,"typic_user","some_forwarding",1,0,1,1,1
+"2651",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2652",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2653",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2654","ruden@umanizales.edu.co",55,"Alejandro","Ruden",55,1,5,"typic_user","some_forwarding",1,0,2,1,1
+"2655","ruepulidoqu@unal.edu.co",69,"Ruben Enrique","Pulido Quintero",69,1,3,"typic_user","some_forwarding",2,0,1,1,1
+"2656",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2657",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2658",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2659",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2660",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2661","rz.carlos10@uniandes.edu.co",47,"Carlos","Rosero",48,1,4,"typic_user","some_forwarding",2,1,1,2,2
+"2662",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2663",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2664",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2665",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2666","s.v.alvarado.s@gmail.com",166,"Sara Victoria","Alvarado",166,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2667",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2668",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2669",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2670",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2671",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2672",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2673",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2674",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2675",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2676",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2677",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2678",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2679",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2680",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2681","salzateb@unal.edu.co",164,"Sofia","Alzate Botero",183,1,1,"typic_user","some_forwarding",4,19,1,1,1
+"2682",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2683",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2684",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2685",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2686",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2687",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2688",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2689",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2690",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2691","sandrabibi_1@hotmail.com",162,"sandra","chaux",162,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2692","sandramil9@hotmail.com",217,"Sandra Milena","Acosta Agudelo",219,1,1,"typic_user","some_forwarding",2,2,1,1,1
+"2693",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2694",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2695","sansalazargri@unal.edu.co",160,"Santiago","Salazar Grisales",161,1,1,"typic_user","some_forwarding",4,1,1,1,1
+"2696",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2697",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2698",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2699",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2700",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2701",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2702",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2703",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2704",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2705","saruizra@unal.edu.co",6,"Santiago","Ruiz",21,1,2,"typic_user","some_forwarding",5,15,1,1,1
+"2706",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2707",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2708",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2709","savinezm@unal.edu.co",7,"Stiven","Viñez",7,1,1,"typic_user","some_forwarding",1,0,2,1,1
+"2710",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2711",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2712",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2713",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2714",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2715",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2716",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2717","scorreav@unal.edu.co",78,"Sebastián","Correa Velásquez",78,1,2,"typic_user","some_forwarding",0,0,2,1,1
+"2718",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2719",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2720",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2721",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2722",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2723",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2724",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2725",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2726","seariaslo@unal.edu.co",17,"Sebastián","Arias López",20,1,5,"typic_user","some_forwarding",2,3,2,2,1
+"2727",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2728",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2729","sebastian.801113929@ucaldas.edu.co",166,"Sebastian","Martinez",166,1,17,"typic_user","some_forwarding",8,0,2,11,6
+"2730",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2731",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2732",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2733","sebastiancupa@gmail.com",196,"SEBASTIAN","ARIAS",196,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2734",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2735","seblopezarc@unal.edu.co",352,"sebastian","lopez arce",352,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"2736",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2737",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2738","seorozcope@unal.edu.co",7,"Sebastian","Orozco Peña",282,1,3,"typic_user","some_forwarding",0,275,3,3,2
+"2739","seospinaco@unal.edu.co",198,"Se","Ospina",198,1,1,"typic_user","some_forwarding",13,0,1,1,1
+"2740","seotalvarora@unal.edu.co",225,"sebastian","otalvaro",235,1,1,"typic_user","some_forwarding",0,10,2,1,1
+"2741",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2742",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2743",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2744",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2745","sergeisolarte@hotmail.com",162,"Sergei","Solarte",162,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2746",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2747",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2748",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2749",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2750",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2751",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2752",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2753","sfonseca@uniandes.edu.co",77,"Sandra","Fonseca",77,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"2754",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2755","sgrajalesn@unal.edu.co",33,"Sthefania","Grajales Noreña",33,1,4,"typic_user","some_forwarding",6,0,1,4,3
+"2756",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2757",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2758",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2759",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2760","sijaramillogo@unal.edu.co",21,"Simón","Jaramillo",21,1,7,"typic_user","some_forwarding",14,0,1,5,4
+"2761",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2762",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2763","sir503@york.ac.uk",2,"Sergiu","Ruta",264,1,1,"typic_user","some_forwarding",2,262,1,1,1
+"2764",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2765",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2766",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2767","sjarami@icesi.edu.co",70,"Sandra","Jaramillo",70,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2768",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2769",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2770",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2771",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2772",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2773",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2774","slparraa@unal.edu.co",19,"Sergio Luis","Parra Angarita",20,1,2,"typic_user","some_forwarding",2,1,1,2,1
+"2775",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2776","smarredondol@gmail.com",68,"Arredondo Lopez","Sandra Milena",87,1,53,"influencer","strong_forwarding",19,19,1,46,18
+"2777","smarredondol@unal.edu.co",2,"Sandra Milena","Arredondo López",12,1,1,"typic_user","some_forwarding",1,10,3,1,1
+"2778","smduque@udem.edu.co",63,"Sandra","Duque",63,1,1,"typic_user","some_forwarding",1,0,2,1,1
+"2779",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2780","smontenegro1@outlook.com",70,"Sebastián","Montenegro",70,1,3,"typic_user","some_forwarding",4,0,1,2,1
+"2781",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2782","smurillo@autonoma.edu.co",162,"Santiago","Murillo Rendon",162,1,6,"typic_user","some_forwarding",7,0,1,6,2
+"2783",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2784",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2785",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2786","snrodriguezba@unal.edu.co",30,"Sneyder","Rodriguez Barona",30,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2787",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2788",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2789",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2790","soniaoteroe@gmail.com",146,"Sonia","Otero",148,1,2,"typic_user","some_forwarding",3,2,1,2,2
+"2791",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2792",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2793",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2794",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2795","sppena@icesi.edu.co",76,"Sandra Patricia","Peña",78,1,5,"typic_user","some_forwarding",0,2,1,2,1
+"2796","sprojasb@unal.edu.co",203,"Sandra","Rojas-Berrio",203,1,11,"typic_user","some_forwarding",0,0,1,3,1
+"2797",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2798",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2799","srianoc@unal.edu.co",160,"stephania","riaño casabianca",160,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2800","srobledog@unal.edu.co",1,"Sebastian","Robledo",1,1,616,"entrepreneur","initiator",166,0,0,410,101
+"2801","sruizhe@unal.edu.co",6,"SANTIAGO","RUIZ HERRERA",168,1,1,"typic_user","some_forwarding",1,162,2,1,1
+"2802",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2803",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2804",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2805","stdelgadoco@unal.edu.co",9,"Steven","Delgado Cortes",9,1,5,"typic_user","some_forwarding",2,0,1,5,2
+"2806",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2807",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2808",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2809",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2810",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2811",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2812",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2813",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2814",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2815",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2816",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2817",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2818",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2819",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2820",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2821",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2822",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2823",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2824",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2825",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2826","syuranis@uninorte.edu.co",210,"Yuranis","Sepulveda",215,1,2,"typic_user","some_forwarding",4,5,1,1,1
+"2827",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2828",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2829",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2830",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2831","tatianamunozderecho@hotmail.com",324,"Tatiana","Muñoz",327,1,1,"typic_user","some_forwarding",1,3,1,1,1
+"2832","tatianarendonr@gmail.com",165,"Tatiana","Rendón Ramírez",165,1,2,"typic_user","some_forwarding",0,0,1,2,2
+"2833",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2834",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2835",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2836","tos_man@unal.edu.co",22,"Tree of Science","ToS",22,1,973,"entrepreneur","initiator",76,0,1,637,148
+"2837",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2838","tulio_naranjo@hotmail.com",279,"Tulio","Naranjo",280,1,4,"typic_user","some_forwarding",4,1,1,3,3
+"2839",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2840",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2841",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2842",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2843",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2844",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2845",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2846",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2847","vagiraldopa@unal.edu.co",364,"Valentina","Giraldo",364,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"2848",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2849",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2850",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2851",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2852",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2853",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2854",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2855",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2856",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2857",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2858",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2859",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2860",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2861",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2862","vbotero@unal.edu.co",5,"Verónica","Botero",5,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2863",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2864",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2865",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2866",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2867",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2868",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2869",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2870",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2871","vevalenciam@unal.edu.co",180,"Victoria Eugenia","Valencia Maya",180,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"2872",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2873",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2874","vhborday@unal.edu.co",7,"victor hugo","bordayepes",7,1,29,"promoter","strong_forwarding",14,0,2,20,9
+"2875",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2876","vhernandezp@unal.edu.co",20,"Valentina","Hernández Piedrahita",20,1,4,"typic_user","some_forwarding",4,0,1,3,1
+"2877",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2878",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2879","vicesca@icesi.edu.co",70,"Vic","Esca",70,1,1,"typic_user","some_forwarding",30,0,1,1,1
+"2880",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2881",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2882","vidapi84@gmail.com",307,"Victor Daniel","Piedrahita Medina",307,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"2883",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2884",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2885",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2886",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2887",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2888",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2889",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2890",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2891","viviana.a.bolanos@correounivalle.edu.co",359,"Vivian","Bolaños",363,1,1,"typic_user","some_forwarding",2,4,1,1,1
+"2892",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2893",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2894","vivianaamoraless09@gmail.com",198,"Viviana Andrea","Morales Sanchez",198,1,3,"typic_user","some_forwarding",4,0,1,2,2
+"2895","vivimoli@gmail.com",155,"Viviana","Molina",155,1,2,"typic_user","some_forwarding",3,0,1,1,1
+"2896",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2897",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2898","vjsaavedram@unal.edu.co",64,"Víctor","Saavedra",64,1,2,"typic_user","some_forwarding",1,0,1,2,2
+"2899",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2900","vlopezo@unal.edu.co",2,"Viviana","Lopez Ospina",19,1,4,"typic_user","some_forwarding",3,17,2,2,2
+"2901",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2902",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2903",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2904",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2905",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2906",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2907",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2908",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2909",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2910",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2911",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2912",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2913",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2914",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2915",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2916","vramirezv@unal.edu.co",15,"Vanesa","Ramirez",54,1,1,"typic_user","some_forwarding",2,39,2,1,1
+"2917",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2918","vromanm@unal.edu.co",352,"vanessa","roman morales",352,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2919",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2920",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2921",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2922","vtabaresm@gmail.com",19,"Valentina","Tabares Morales",19,1,41,"promoter","strong_forwarding",13,0,1,23,6
+"2923",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2924","vvargasl@unal.edu.co",164,"Valentina","Vargas López",164,1,23,"typic_user","some_forwarding",2,0,1,11,2
+"2925",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2926",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2927",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2928","wadisyovany@gmail.com",238,"Wadis Yovany","Posada Silva",238,1,1,"typic_user","some_forwarding",0,0,2,1,1
+"2929",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2930","wagudelop@hotmail.com",22,"Wilder","Agudelo Parra",22,1,10,"typic_user","some_forwarding",5,0,1,9,4
+"2931",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2932",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2933","wamercados@unal.edu.co",34,"Walter","Mercado",34,1,11,"typic_user","some_forwarding",4,0,1,5,3
+"2934",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2935",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2936",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2937",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2938","wbeimar23@gmail.com",98,"wbeimar","Cano Restrepo",98,1,3,"typic_user","some_forwarding",1,0,1,3,3
+"2939",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2940",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2941",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2942",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2943",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2944",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2945",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2946",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2947",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2948",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2949",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2950",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2951","wilsonlargo01@hotmail.com",86,"Wilson Alejandro","Largo Taborda",86,1,3,"typic_user","some_forwarding",9,0,1,2,1
+"2952",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2953","wroperoc@unal.edu.co",238,"wilmer","ropero",363,1,1,"typic_user","some_forwarding",1,125,1,1,1
+"2954",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2955","wsanchezm@unal.edu.co",31,"william","sanchez maya",31,1,4,"typic_user","some_forwarding",0,0,1,3,1
+"2956",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2957",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2958",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2959","wxmattag@unal.edu.co",8,"Wanda Xiomara","Matta Garcia",8,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"2960",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2961",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2962","xime.arias98@gmail.com",341,"ximena","arias",341,1,2,"typic_user","some_forwarding",1,0,1,2,1
+"2963","ximena.1711021631@ucaldas.edu.co",29,"Ximena","Ospina Londoño",29,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2964",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2965",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2966",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2967",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2968",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2969",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2970",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2971",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2972","yaguirreo@unal.edu.co",34,"yeison","aguirre osorio",34,1,3,"typic_user","some_forwarding",7,0,1,1,1
+"2973",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2974",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2975",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2976",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2977","yanini.hernandezr@hotmail.com",196,"Yaninis Patricia","Hernandez Rodriguez",196,1,1,"typic_user","some_forwarding",1,0,3,1,1
+"2978",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2979",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2980","yasinskisonia@gmail.com",2,"sonia ester","yasinski",2,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"2981",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2982",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2983","ycadavidm@unal.edu.co",230,"Yuliana","Cadavid Mora",230,1,1,"typic_user","some_forwarding",1,0,2,1,1
+"2984",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2985","ychaconp@unal.edu.co",20,"Yessica","Chacón Pérez",20,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"2986",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2987",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2988",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2989",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2990","yelicza.marin@ucaldas.edu.co",238,"Yelicza","Marín",238,1,2,"typic_user","some_forwarding",8,0,1,2,2
+"2991",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2992",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2993",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2994",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2995",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2996",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2997",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"2998","yesidtriana@gmail.com",196,"Yesid","Triana Beltrán",196,1,7,"typic_user","some_forwarding",6,0,1,4,1
+"2999","yessipaloe@gmail.com",197,"Yéssica Paola","López E.",199,1,1,"typic_user","some_forwarding",2,2,1,1,1
+"3000","yeydmeji@hotmail.com",167,"yey","denisse",167,1,1,"typic_user","some_forwarding",0,0,1,1,1
+"3001","yeye981013@gmail.com",341,"jenifer","gutierrez",341,1,5,"typic_user","some_forwarding",1,0,1,4,1
+"3002",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3003",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3004",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3005",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3006",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3007",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3008",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3009","ylsuarezc@unal.edu.co",169,"yennert","suarez",170,1,1,"typic_user","some_forwarding",3,1,2,1,1
+"3010","ym.gomez24@uniandes.edu.co",77,"Marcela","Gómez",77,1,1,"typic_user","some_forwarding",2,0,1,1,1
+"3011","ymcastan@unal.edu.co",257,"Ivonne Marcela","Cstañeda Riascos",257,1,3,"typic_user","some_forwarding",3,0,1,2,1
+"3012",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3013","ymorales4@cuc.edu.co",300,"YUNEIDIS","MORALES ORTEGA",300,1,1,"typic_user","some_forwarding",1,0,1,1,1
+"3014",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3015",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3016",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3017",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3018",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3019",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3020",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3021","yulitatiana2388@hotmail.com",76,"Yuli","Tatiana",156,1,19,"typic_user","some_forwarding",1,80,1,4,2
+"3022","yvmarinj@unal.edu.co",12,"Yuly Viviana","Marín Jimenez",12,1,1,"typic_user","some_forwarding",1,0,2,1,1
+"3023",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3024",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3025",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3026",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3027",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3028",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0
+"3029",NA,0,NA,NA,0,0,0,NA,NA,0,0,0,0,0

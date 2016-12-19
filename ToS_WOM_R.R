@@ -5,6 +5,7 @@ library(ggplot2)
 library(reshape2)
 library("plyr", lib.loc="~/R/win-library/3.3")
 library(cluster)
+library(mclust)
 
 #### Connect to database ####
 db <- dbConnect(SQLite(), dbname="EM_NM.sqlite")
@@ -339,6 +340,44 @@ seg.hc <- hclust(seg.dist, method = "complete")
 plot(seg.hc)
 plot(cut(as.dendrogram(seg.hc), h=50)$lower[[1]])
 
+## How good is the hierarchical clustering
+
+cor(cophenetic(seg.hc), seg.dist)
+
+## Hierarchical Clustering Continued: Groups from hclust()
+
+plot(seg.hc)
+rect.hclust(seg.hc, k=3, border="red")
+
+seg.hc.segment <- cutree(seg.hc, k=3)     # membership vector for 3 groups
+table(seg.hc.segment)
+
+seg.summ(seg.net.act, seg.hc.segment)  # Inspect clusters
+
+##  Mean-BasedClustering:kmeans()
+
+set.seed(96743)
+seg.k <- kmeans(seg.net.act, centers=3)
+
+seg.summ(seg.net.act, seg.k$cluster)
+boxplot(seg.net.act$effe_inv_send ~ seg.k$cluster, ylab="Inv_send", xlab="Cluster")
+
+clusplot(seg.net.act, seg.k$cluster, color=TRUE, shade=TRUE,
+         labels=3, lines=0, main="K-means cluster plot")
+
+## Model-BasedClustering:Mclust()
+
+seg.mc <- Mclust(seg.net.act)
+summary(seg.mc)
+
+# With three clusters
+
+seg.mc3 <- Mclust(seg.net.act, G=3)
+summary(seg.mc3)
+
+## ComparingModelswithBIC()
+
+BIC(seg.mc, seg.mc4)
 
 #### Disconnect with database ####
 dbDisconnect(db)
