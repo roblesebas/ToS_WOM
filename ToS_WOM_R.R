@@ -322,7 +322,7 @@ user[is.na(user$group_inv), "group_inv" ] <- 0
 
 
 seg.net.act_1 <- user[!(user$sender_type == "entrepreneur" | user$sender_type == "non_promoter"),]
-seg.net.act <- seg.net.act_1[,c("usage", "Activation_delay", "inv_received", "effe_inv_send", "days_amount", 
+seg.net.act <- seg.net.act_1[,c("usage", "inv_received", "effe_inv_send", "days_amount", 
                        "ind_inv","group_inv")]
 
 #### Clustering 
@@ -333,12 +333,16 @@ seg.summ <- function(data, groups) {
   aggregate(data, list(groups), function(x) mean(as.numeric(x)))
 }
 
+seg.summ.count <- function(data, groups) {
+  aggregate(data, list(groups), function(x) c(mean(as.numeric(x), length(x))))
+}
+
 # Hierarchical Clustering: hclust() 
 
 seg.dist <- daisy(seg.net.act)
 seg.hc <- hclust(seg.dist, method = "complete")
 plot(seg.hc)
-plot(cut(as.dendrogram(seg.hc), h=50)$lower[[1]])
+plot(cut(as.dendrogram(seg.hc), h=100)$lower[[1]])
 
 ## How good is the hierarchical clustering
 
